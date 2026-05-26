@@ -1,29 +1,53 @@
 {
-  "lastUpdated": "Auto-updated by GitHub Actions after publishing",
+  "lastUpdated": "2026-05-26 04:22 UTC",
   "items": [
     {
-      "title": "CISA Known Exploited Vulnerabilities Catalog",
-      "source": "CISA",
+      "title": "\u26a1 Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Monday recap. Same mess, new week. A sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of...",
+      "date": "2026-05-25",
+      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html"
+    },
+    {
+      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks. According to QiAnXin XLab,...",
+      "date": "2026-05-25",
+      "link": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html"
+    },
+    {
+      "title": "The Alert Firehose Finally Meets Its Match",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear \"Noisy,\" \"Too much data.\" But ask the teams running NDR that includes agentic AI capabilities...",
+      "date": "2026-05-25",
+      "link": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html"
+    },
+    {
+      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and...",
+      "date": "2026-05-25",
+      "link": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html"
+    },
+    {
+      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+      "source": "The Hacker News",
       "severity": "High",
-      "summary": "Monitor actively exploited vulnerabilities and prioritize remediation for internet-facing systems.",
-      "date": "Live source",
-      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+      "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware. The campaign, codenamed TrapDoor,...",
+      "date": "2026-05-25",
+      "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html"
     },
     {
-      "title": "Microsoft Security Blog",
-      "source": "Microsoft",
-      "severity": "Info",
-      "summary": "Follow Microsoft security research, identity protection guidance, and threat intelligence updates.",
-      "date": "Live source",
-      "link": "https://www.microsoft.com/security/blog/"
-    },
-    {
-      "title": "CISA Cybersecurity Advisories",
-      "source": "CISA",
-      "severity": "Info",
-      "summary": "Public advisories covering newly observed threats, vulnerabilities, and defensive guidance.",
-      "date": "Live source",
-      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories"
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages...",
+      "date": "2026-05-23",
+      "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html"
     }
   ]
 }
