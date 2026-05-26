@@ -1,0 +1,29 @@
+{
+  "lastUpdated": "Auto-updated by GitHub Actions after publishing",
+  "items": [
+    {
+      "title": "CISA Known Exploited Vulnerabilities Catalog",
+      "source": "CISA",
+      "severity": "High",
+      "summary": "Monitor actively exploited vulnerabilities and prioritize remediation for internet-facing systems.",
+      "date": "Live source",
+      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+    },
+    {
+      "title": "Microsoft Security Blog",
+      "source": "Microsoft",
+      "severity": "Info",
+      "summary": "Follow Microsoft security research, identity protection guidance, and threat intelligence updates.",
+      "date": "Live source",
+      "link": "https://www.microsoft.com/security/blog/"
+    },
+    {
+      "title": "CISA Cybersecurity Advisories",
+      "source": "CISA",
+      "severity": "Info",
+      "summary": "Public advisories covering newly observed threats, vulnerabilities, and defensive guidance.",
+      "date": "Live source",
+      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories"
+    }
+  ]
+}
