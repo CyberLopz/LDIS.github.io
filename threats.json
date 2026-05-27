@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-26 14:56 UTC",
+  "lastUpdated": "2026-05-27 02:52 UTC",
   "items": [
+    {
+      "title": "From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft exposes a cryptojacking campaign using SEO poisoning and ScreenConnect to target high-performance PCs, with malicious sites also surfaced through AI chatbots. The post From...",
+      "date": "2026-05-26",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/"
+    },
+    {
+      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of...",
+      "date": "2026-05-26",
+      "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html"
+    },
     {
       "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12...",
       "date": "2026-05-26",
       "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html"
-    },
-    {
-      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in...",
-      "date": "2026-05-26",
-      "link": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html"
-    },
-    {
-      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the...",
-      "date": "2026-05-26",
-      "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html"
     }
   ]
 }
