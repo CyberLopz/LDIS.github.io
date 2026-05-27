@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-05-27 02:52 UTC",
+  "lastUpdated": "2026-05-27 15:25 UTC",
   "items": [
+    {
+      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a...",
+      "date": "2026-05-27",
+      "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html"
+    },
+    {
+      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a...",
+      "date": "2026-05-27",
+      "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html"
+    },
+    {
+      "title": "3 SOC Steps that Shut Down Incident Risks Early",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Most organizations still picture cyber defense as a fortress problem: build stronger walls, add more guards, buy another detection engine. But modern incidents rarely crash through the...",
+      "date": "2026-05-27",
+      "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html"
+    },
+    {
+      "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private...",
+      "date": "2026-05-27",
+      "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html"
+    },
+    {
+      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This...",
+      "date": "2026-05-27",
+      "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html"
+    },
     {
       "title": "From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities",
       "source": "Microsoft Security Blog",
@@ -8,46 +48,6 @@
       "summary": "Microsoft exposes a cryptojacking campaign using SEO poisoning and ScreenConnect to target high-performance PCs, with malicious sites also surfaced through AI chatbots. The post From...",
       "date": "2026-05-26",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/"
-    },
-    {
-      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of...",
-      "date": "2026-05-26",
-      "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html"
-    },
-    {
-      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Every single day, hackers are finding new ways to crash websites and steal data. But right now, something has changed. Hackers are no longer working alone. They are now using powerful...",
-      "date": "2026-05-26",
-      "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html"
-    },
-    {
-      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized...",
-      "date": "2026-05-26",
-      "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html"
-    },
-    {
-      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in...",
-      "date": "2026-05-26",
-      "link": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html"
-    },
-    {
-      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12...",
-      "date": "2026-05-26",
-      "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html"
     }
   ]
 }
