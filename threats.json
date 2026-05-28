@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-05-28 02:39 UTC",
+  "lastUpdated": "2026-05-28 15:38 UTC",
   "items": [
+    {
+      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to...",
+      "date": "2026-05-28",
+      "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html"
+    },
+    {
+      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled...",
+      "date": "2026-05-28",
+      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html"
+    },
+    {
+      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their...",
+      "date": "2026-05-28",
+      "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html"
+    },
+    {
+      "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed...",
+      "date": "2026-05-28",
+      "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html"
+    },
     {
       "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities. According to OX Security, the package, named...",
       "date": "2026-05-27",
       "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html"
-    },
-    {
-      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a...",
-      "date": "2026-05-27",
-      "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html"
-    },
-    {
-      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a...",
-      "date": "2026-05-27",
-      "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html"
-    },
-    {
-      "title": "3 SOC Steps that Shut Down Incident Risks Early",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Most organizations still picture cyber defense as a fortress problem: build stronger walls, add more guards, buy another detection engine. But modern incidents rarely crash through the...",
-      "date": "2026-05-27",
-      "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html"
-    },
-    {
-      "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private...",
-      "date": "2026-05-27",
-      "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html"
     }
   ]
 }
