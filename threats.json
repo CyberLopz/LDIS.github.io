@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-27 15:25 UTC",
+  "lastUpdated": "2026-05-28 02:39 UTC",
   "items": [
+    {
+      "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively....",
+      "date": "2026-05-27",
+      "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html"
+    },
+    {
+      "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities. According to OX Security, the package, named...",
+      "date": "2026-05-27",
+      "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html"
+    },
     {
       "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private...",
       "date": "2026-05-27",
       "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html"
-    },
-    {
-      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This...",
-      "date": "2026-05-27",
-      "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html"
-    },
-    {
-      "title": "From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Microsoft exposes a cryptojacking campaign using SEO poisoning and ScreenConnect to target high-performance PCs, with malicious sites also surfaced through AI chatbots. The post From...",
-      "date": "2026-05-26",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/"
     }
   ]
 }
