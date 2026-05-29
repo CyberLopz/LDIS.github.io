@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-05-29 02:43 UTC",
+  "lastUpdated": "2026-05-29 14:51 UTC",
   "items": [
+    {
+      "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025....",
+      "date": "2026-05-29",
+      "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html"
+    },
+    {
+      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production...",
+      "date": "2026-05-29",
+      "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html"
+    },
+    {
+      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems,...",
+      "date": "2026-05-29",
+      "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html"
+    },
+    {
+      "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate...",
+      "date": "2026-05-29",
+      "link": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html"
+    },
+    {
+      "title": "Typosquatted npm packages used to steal cloud and CI/CD secrets",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "The Mini Shai-Hulud campaign used malicious npm packages to target cloud and CI/CD credentials across developer environments. This report details the attack chain, detection...",
+      "date": "2026-05-29",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/"
+    },
     {
       "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain...",
       "date": "2026-05-28",
       "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html"
-    },
-    {
-      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware....",
-      "date": "2026-05-28",
-      "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html"
-    },
-    {
-      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to...",
-      "date": "2026-05-28",
-      "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled...",
-      "date": "2026-05-28",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html"
-    },
-    {
-      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their...",
-      "date": "2026-05-28",
-      "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html"
-    },
-    {
-      "title": "The Gentlemen ransomware: Dissecting a self-propagating Go encryptor",
-      "source": "Microsoft Security Blog",
-      "severity": "Critical",
-      "summary": "Microsoft Threat Intelligence presents a comprehensive analysis of The Gentlemen, a Go-based ransomware deployed by affiliates of Storm-2697 that combines per-file ephemeral key...",
-      "date": "2026-05-28",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/"
     }
   ]
 }
