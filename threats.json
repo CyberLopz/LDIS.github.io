@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-28 15:38 UTC",
+  "lastUpdated": "2026-05-29 02:43 UTC",
   "items": [
+    {
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain...",
+      "date": "2026-05-28",
+      "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html"
+    },
+    {
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware....",
+      "date": "2026-05-28",
+      "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html"
+    },
     {
       "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
       "source": "The Hacker News",
@@ -26,28 +42,12 @@
       "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html"
     },
     {
-      "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed...",
+      "title": "The Gentlemen ransomware: Dissecting a self-propagating Go encryptor",
+      "source": "Microsoft Security Blog",
+      "severity": "Critical",
+      "summary": "Microsoft Threat Intelligence presents a comprehensive analysis of The Gentlemen, a Go-based ransomware deployed by affiliates of Storm-2697 that combines per-file ephemeral key...",
       "date": "2026-05-28",
-      "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html"
-    },
-    {
-      "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively....",
-      "date": "2026-05-27",
-      "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html"
-    },
-    {
-      "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities. According to OX Security, the package, named...",
-      "date": "2026-05-27",
-      "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html"
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/"
     }
   ]
 }
