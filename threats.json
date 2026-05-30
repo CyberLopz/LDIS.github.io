@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-30 02:37 UTC",
+  "lastUpdated": "2026-05-30 13:16 UTC",
   "items": [
+    {
+      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The...",
+      "date": "2026-05-30",
+      "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html"
+    },
+    {
+      "title": "Malicious npm packages abuse dependency confusion to profile developer environments",
+      "source": "Microsoft Security Blog",
+      "severity": "Info",
+      "summary": "A dependency confusion campaign leveraged 33 malicious npm packages to collect reconnaissance data from developer and build environments. This report details the attack chain, observed...",
+      "date": "2026-05-30",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/"
+    },
     {
       "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
       "source": "The Hacker News",
@@ -18,7 +34,7 @@
       "link": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html"
     },
     {
-      "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
       "source": "The Hacker News",
       "severity": "Medium",
       "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025....",
@@ -32,22 +48,6 @@
       "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production...",
       "date": "2026-05-29",
       "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html"
-    },
-    {
-      "title": "Microsoft is named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Endpoint Protection",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Microsoft is named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Endpoint Protection. The post Microsoft is named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Endpoint...",
-      "date": "2026-05-29",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/29/microsoft-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection/"
-    },
-    {
-      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems,...",
-      "date": "2026-05-29",
-      "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html"
     }
   ]
 }
