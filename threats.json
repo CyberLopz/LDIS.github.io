@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-31 02:54 UTC",
+  "lastUpdated": "2026-05-31 13:25 UTC",
   "items": [
+    {
+      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious...",
+      "date": "2026-05-31",
+      "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html"
+    },
     {
       "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025....",
       "date": "2026-05-29",
       "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html"
-    },
-    {
-      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production...",
-      "date": "2026-05-29",
-      "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html"
     }
   ]
 }
