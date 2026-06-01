@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-06-01 03:29 UTC",
+  "lastUpdated": "2026-06-01 17:27 UTC",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual...",
+      "date": "2026-06-01",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html"
+    },
+    {
+      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent....",
+      "date": "2026-06-01",
+      "link": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html"
+    },
+    {
+      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments,...",
+      "date": "2026-06-01",
+      "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html"
+    },
+    {
+      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI. The...",
+      "date": "2026-06-01",
+      "link": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html"
+    },
+    {
+      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create...",
+      "date": "2026-06-01",
+      "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html"
+    },
     {
       "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious...",
       "date": "2026-05-31",
       "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html"
-    },
-    {
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The...",
-      "date": "2026-05-30",
-      "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html"
-    },
-    {
-      "title": "Malicious npm packages abuse dependency confusion to profile developer environments",
-      "source": "Microsoft Security Blog",
-      "severity": "Info",
-      "summary": "A dependency confusion campaign leveraged 33 malicious npm packages to collect reconnaissance data from developer and build environments. This report details the attack chain, observed...",
-      "date": "2026-05-30",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/"
-    },
-    {
-      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and...",
-      "date": "2026-05-29",
-      "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html"
-    },
-    {
-      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a...",
-      "date": "2026-05-29",
-      "link": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html"
-    },
-    {
-      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025....",
-      "date": "2026-05-29",
-      "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html"
     }
   ]
 }
