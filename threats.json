@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-06-02 03:00 UTC",
+  "lastUpdated": "2026-06-02 16:11 UTC",
   "items": [
+    {
+      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It.",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the...",
+      "date": "2026-06-02",
+      "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html"
+    },
+    {
+      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent...",
+      "date": "2026-06-02",
+      "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html"
+    },
+    {
+      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an...",
+      "date": "2026-06-02",
+      "link": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html"
+    },
+    {
+      "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an...",
+      "date": "2026-06-02",
+      "link": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html"
+    },
     {
       "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual...",
       "date": "2026-06-01",
       "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html"
-    },
-    {
-      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent....",
-      "date": "2026-06-01",
-      "link": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html"
-    },
-    {
-      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments,...",
-      "date": "2026-06-01",
-      "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html"
-    },
-    {
-      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI. The...",
-      "date": "2026-06-01",
-      "link": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html"
-    },
-    {
-      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create...",
-      "date": "2026-06-01",
-      "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html"
     }
   ]
 }
