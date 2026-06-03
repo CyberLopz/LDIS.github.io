@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-06-03 03:34 UTC",
+  "lastUpdated": "2026-06-03 16:27 UTC",
   "items": [
     {
-      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link,...",
+      "date": "2026-06-03",
+      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html"
+    },
+    {
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of...",
+      "date": "2026-06-03",
+      "link": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html"
+    },
+    {
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework...",
+      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning...",
       "date": "2026-06-03",
-      "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html"
+      "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html"
     },
     {
-      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and...",
-      "date": "2026-06-02",
-      "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html"
+      "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which...",
+      "date": "2026-06-03",
+      "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html"
     },
     {
-      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities...",
-      "date": "2026-06-02",
-      "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html"
+      "summary": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora....",
+      "date": "2026-06-03",
+      "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html"
     },
     {
-      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It.",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the...",
-      "date": "2026-06-02",
-      "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html"
-    },
-    {
-      "title": "Microsoft Build 2026: Securing code, agents, and models across the development lifecycle",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Discover how Microsoft enables fast, secure AI development with MDASH and new security capabilities. The post Microsoft Build 2026: Securing code, agents, and models across the...",
-      "date": "2026-06-02",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/"
-    },
-    {
-      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent...",
-      "date": "2026-06-02",
-      "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html"
+      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused...",
+      "date": "2026-06-03",
+      "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html"
     }
   ]
 }
