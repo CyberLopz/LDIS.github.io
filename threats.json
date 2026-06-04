@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-06-03 16:27 UTC",
+  "lastUpdated": "2026-06-04 03:30 UTC",
   "items": [
     {
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link,...",
-      "date": "2026-06-03",
-      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html"
+      "severity": "Medium",
+      "summary": "A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's...",
+      "date": "2026-06-04",
+      "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html"
     },
     {
-      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of...",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan...",
       "date": "2026-06-03",
-      "link": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html"
+      "link": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html"
     },
     {
       "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
@@ -26,28 +26,28 @@
       "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html"
     },
     {
-      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+      "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which...",
+      "summary": "A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps. Any other...",
       "date": "2026-06-03",
-      "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html"
+      "link": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html"
     },
     {
-      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora....",
-      "date": "2026-06-03",
-      "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html"
-    },
-    {
-      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused...",
+      "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an...",
       "date": "2026-06-03",
-      "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html"
+      "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html"
+    },
+    {
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link,...",
+      "date": "2026-06-03",
+      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html"
     }
   ]
 }
