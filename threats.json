@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-04 14:46 UTC",
+  "lastUpdated": "2026-06-05 02:52 UTC",
   "items": [
+    {
+      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as...",
+      "date": "2026-06-04",
+      "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html"
+    },
+    {
+      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single...",
+      "date": "2026-06-04",
+      "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html"
+    },
+    {
+      "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude...",
+      "date": "2026-06-04",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html"
+    },
     {
       "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
       "source": "The Hacker News",
@@ -10,44 +34,20 @@
       "link": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html"
     },
     {
-      "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+      "title": "Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us",
+      "source": "Microsoft Security Blog",
+      "severity": "Info",
+      "summary": "A surge in real-world attacks against agentic AI systems is reshaping how we think about risk. Based on 12 months of red teaming, this update introduces seven new failure modes, from...",
+      "date": "2026-06-04",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/"
+    },
+    {
+      "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
       "source": "The Hacker News",
       "severity": "High",
       "summary": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa. These efforts have...",
       "date": "2026-06-04",
       "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html"
-    },
-    {
-      "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have shed light on a macOS malvertising campaign codenamed Operation FlutterBridge that spreads a new backdoor called FlutterShell. According to Palo Alto...",
-      "date": "2026-06-04",
-      "link": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html"
-    },
-    {
-      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System...",
-      "date": "2026-06-04",
-      "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html"
-    },
-    {
-      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and...",
-      "date": "2026-06-04",
-      "link": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html"
-    },
-    {
-      "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and...",
-      "date": "2026-06-04",
-      "link": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html"
     }
   ]
 }
