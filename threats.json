@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-06-05 02:52 UTC",
+  "lastUpdated": "2026-06-05 14:36 UTC",
   "items": [
+    {
+      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 that has been observed targeting Microsoft Internet Information Services (IIS) servers to...",
+      "date": "2026-06-05",
+      "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html"
+    },
+    {
+      "title": "Only 10% of SOCs Say They\u2019re Getting Excellent Value From AI. Here\u2019s What the Second Wave Has to Deliver",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into...",
+      "date": "2026-06-05",
+      "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html"
+    },
+    {
+      "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a...",
+      "date": "2026-06-05",
+      "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html"
+    },
+    {
+      "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff. Recent reports describe thousands...",
+      "date": "2026-06-05",
+      "link": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html"
+    },
+    {
+      "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network....",
+      "date": "2026-06-05",
+      "link": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html"
+    },
     {
       "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as...",
       "date": "2026-06-04",
       "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html"
-    },
-    {
-      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single...",
-      "date": "2026-06-04",
-      "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html"
-    },
-    {
-      "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude...",
-      "date": "2026-06-04",
-      "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html"
-    },
-    {
-      "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "It got stupid again. The internet still feels held together with tape. Bad plugins, old bugs, fake tools, trusted apps doing shady things. Same mess, new wrapper. And now the weird stuff...",
-      "date": "2026-06-04",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html"
-    },
-    {
-      "title": "Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us",
-      "source": "Microsoft Security Blog",
-      "severity": "Info",
-      "summary": "A surge in real-world attacks against agentic AI systems is reshaping how we think about risk. Based on 12 months of red teaming, this update introduces seven new failure modes, from...",
-      "date": "2026-06-04",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/"
-    },
-    {
-      "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa. These efforts have...",
-      "date": "2026-06-04",
-      "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html"
     }
   ]
 }
