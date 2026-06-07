@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-06 13:20 UTC",
+  "lastUpdated": "2026-06-07 02:57 UTC",
   "items": [
+    {
+      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is...",
+      "date": "2026-06-06",
+      "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html"
+    },
     {
       "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation. The vulnerability, tracked as CVE-2026-20245, carries a CVSS...",
       "date": "2026-06-06",
       "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html"
-    },
-    {
-      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based...",
-      "date": "2026-06-05",
-      "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html"
     }
   ]
 }
