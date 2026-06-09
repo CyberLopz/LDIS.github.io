@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-06-09 02:37 UTC",
+  "lastUpdated": "2026-06-09 14:37 UTC",
   "items": [
     {
-      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The...",
+      "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were...",
       "date": "2026-06-09",
-      "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html"
+      "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html"
     },
     {
-      "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group. In addition, the tech giant said it's filing a federal court contempt...",
-      "date": "2026-06-08",
-      "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html"
-    },
-    {
-      "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key...",
-      "date": "2026-06-08",
-      "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html"
-    },
-    {
-      "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Phishing has always been a numbers game. AI has turned it into a volume machine. Attackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every...",
-      "date": "2026-06-08",
-      "link": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still...",
-      "date": "2026-06-08",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html"
-    },
-    {
-      "title": "The Hardest Fork",
+      "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't \"whoops, this line...",
-      "date": "2026-06-08",
-      "link": "https://thehackernews.com/2026/06/the-hardest-fork.html"
+      "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a...",
+      "date": "2026-06-09",
+      "link": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html"
+    },
+    {
+      "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as...",
+      "date": "2026-06-09",
+      "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html"
+    },
+    {
+      "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Organizations have more visibility than ever. Growing tech stacks provide greater coverage, and network security teams are increasingly adopting AI and automation to help with routine...",
+      "date": "2026-06-09",
+      "link": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html"
+    },
+    {
+      "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code,...",
+      "date": "2026-06-09",
+      "link": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html"
+    },
+    {
+      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI)...",
+      "date": "2026-06-09",
+      "link": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html"
     }
   ]
 }
