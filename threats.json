@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-08 15:38 UTC",
+  "lastUpdated": "2026-06-09 02:37 UTC",
   "items": [
+    {
+      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The...",
+      "date": "2026-06-09",
+      "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html"
+    },
+    {
+      "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group. In addition, the tech giant said it's filing a federal court contempt...",
+      "date": "2026-06-08",
+      "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html"
+    },
     {
       "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't \"whoops, this line...",
       "date": "2026-06-08",
       "link": "https://thehackernews.com/2026/06/the-hardest-fork.html"
-    },
-    {
-      "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT)...",
-      "date": "2026-06-08",
-      "link": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html"
-    },
-    {
-      "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and...",
-      "date": "2026-06-08",
-      "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html"
     }
   ]
 }
