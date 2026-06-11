@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-06-11 03:23 UTC",
+  "lastUpdated": "2026-06-11 15:45 UTC",
   "items": [
     {
-      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+      "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over...",
-      "date": "2026-06-10",
-      "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html"
+      "summary": "Most good security work is invisible by design. Today is the exception. The 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories....",
+      "date": "2026-06-11",
+      "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html"
     },
     {
-      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure....",
-      "date": "2026-06-10",
-      "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html"
-    },
-    {
-      "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild,...",
-      "date": "2026-06-10",
-      "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html"
-    },
-    {
-      "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of...",
-      "date": "2026-06-10",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html"
-    },
-    {
-      "title": "Turn specs into evals for any agent with ASSERT",
-      "source": "Microsoft Security Blog",
-      "severity": "Info",
-      "summary": "Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT) is an open-source framework for converting natural language behavior requirements into executable evaluations...",
-      "date": "2026-06-10",
-      "link": "https://commandline.microsoft.com/assert-written-intent-executable-evals/"
-    },
-    {
-      "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Your pentest report looks clean. That might be the problem. Run automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear....",
-      "date": "2026-06-10",
-      "link": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html"
+      "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo,...",
+      "date": "2026-06-11",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html"
+    },
+    {
+      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was...",
+      "date": "2026-06-11",
+      "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html"
+    },
+    {
+      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as...",
+      "date": "2026-06-11",
+      "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html"
+    },
+    {
+      "title": "Yarbo Android/iOS Mobile Application and Cloud Infrastructure",
+      "source": "CISA Advisories",
+      "severity": "High",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain hard-coded credentials, gain access to telemetry data, and potentially send...",
+      "date": "2026-06-11",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-01"
+    },
+    {
+      "title": "Naxclow IoT Platform",
+      "source": "CISA Advisories",
+      "severity": "High",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to impersonate devices, intercept or manipulate communications, harvest sensitive credentials...",
+      "date": "2026-06-11",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-02"
     }
   ]
 }
