@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-06-12 02:58 UTC",
+  "lastUpdated": "2026-06-12 14:46 UTC",
   "items": [
+    {
+      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer...",
+      "date": "2026-06-12",
+      "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html"
+    },
+    {
+      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed...",
+      "date": "2026-06-12",
+      "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html"
+    },
+    {
+      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code...",
+      "date": "2026-06-12",
+      "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html"
+    },
+    {
+      "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday. The effort, codenamed...",
+      "date": "2026-06-12",
+      "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html"
+    },
+    {
+      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the...",
+      "date": "2026-06-12",
+      "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html"
+    },
     {
       "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit...",
       "date": "2026-06-12",
       "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html"
-    },
-    {
-      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over...",
-      "date": "2026-06-11",
-      "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html"
-    },
-    {
-      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for...",
-      "date": "2026-06-11",
-      "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html"
-    },
-    {
-      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks,...",
-      "date": "2026-06-11",
-      "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html"
-    },
-    {
-      "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Most good security work is invisible by design. Today is the exception. The 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories....",
-      "date": "2026-06-11",
-      "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo,...",
-      "date": "2026-06-11",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html"
     }
   ]
 }
