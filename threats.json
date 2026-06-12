@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-06-11 15:45 UTC",
+  "lastUpdated": "2026-06-12 02:58 UTC",
   "items": [
+    {
+      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit...",
+      "date": "2026-06-12",
+      "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html"
+    },
+    {
+      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over...",
+      "date": "2026-06-11",
+      "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html"
+    },
+    {
+      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for...",
+      "date": "2026-06-11",
+      "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html"
+    },
+    {
+      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks,...",
+      "date": "2026-06-11",
+      "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html"
+    },
     {
       "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
       "source": "The Hacker News",
@@ -10,44 +42,12 @@
       "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html"
     },
     {
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
       "source": "The Hacker News",
       "severity": "Medium",
       "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo,...",
       "date": "2026-06-11",
       "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html"
-    },
-    {
-      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was...",
-      "date": "2026-06-11",
-      "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html"
-    },
-    {
-      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as...",
-      "date": "2026-06-11",
-      "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html"
-    },
-    {
-      "title": "Yarbo Android/iOS Mobile Application and Cloud Infrastructure",
-      "source": "CISA Advisories",
-      "severity": "High",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain hard-coded credentials, gain access to telemetry data, and potentially send...",
-      "date": "2026-06-11",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-01"
-    },
-    {
-      "title": "Naxclow IoT Platform",
-      "source": "CISA Advisories",
-      "severity": "High",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to impersonate devices, intercept or manipulate communications, harvest sensitive credentials...",
-      "date": "2026-06-11",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-02"
     }
   ]
 }
