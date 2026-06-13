@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-13 02:51 UTC",
+  "lastUpdated": "2026-06-13 13:47 UTC",
   "items": [
+    {
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code...",
+      "date": "2026-06-13",
+      "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html"
+    },
+    {
+      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it...",
+      "date": "2026-06-13",
+      "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html"
+    },
     {
       "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer...",
       "date": "2026-06-12",
       "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html"
-    },
-    {
-      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed...",
-      "date": "2026-06-12",
-      "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html"
-    },
-    {
-      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code...",
-      "date": "2026-06-12",
-      "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html"
     }
   ]
 }
