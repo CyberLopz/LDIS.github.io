@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-15 17:07 UTC",
+  "lastUpdated": "2026-06-16 03:33 UTC",
   "items": [
+    {
+      "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email....",
+      "date": "2026-06-16",
+      "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html"
+    },
+    {
+      "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous...",
+      "date": "2026-06-16",
+      "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html"
+    },
+    {
+      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed...",
+      "date": "2026-06-15",
+      "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html"
+    },
     {
       "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe. That usually means...",
       "date": "2026-06-15",
       "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html"
-    },
-    {
-      "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potentially unwanted program (PUP) family....",
-      "date": "2026-06-15",
-      "link": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html"
-    },
-    {
-      "title": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites. When...",
-      "date": "2026-06-15",
-      "link": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html"
-    },
-    {
-      "title": "Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of fraudulent activity targeting users across the Middle East and North Africa by employing various fraudulent Facebook accounts...",
-      "date": "2026-06-15",
-      "link": "https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html"
     }
   ]
 }
