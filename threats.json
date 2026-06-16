@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-06-16 03:33 UTC",
+  "lastUpdated": "2026-06-16 16:43 UTC",
   "items": [
     {
-      "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email....",
+      "summary": "Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands....",
       "date": "2026-06-16",
-      "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html"
+      "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html"
     },
     {
-      "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
+      "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous...",
+      "summary": "Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a...",
       "date": "2026-06-16",
-      "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html"
+      "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html"
     },
     {
-      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
+      "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed...",
-      "date": "2026-06-15",
-      "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html"
+      "summary": "Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber. In a post shared on X, the company said it has...",
+      "date": "2026-06-16",
+      "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html"
     },
     {
-      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search. Researchers at...",
-      "date": "2026-06-15",
-      "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a...",
-      "date": "2026-06-15",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html"
-    },
-    {
-      "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
+      "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe. That usually means...",
-      "date": "2026-06-15",
-      "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html"
+      "summary": "Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS. \"The Windows variants discovered...",
+      "date": "2026-06-16",
+      "link": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html"
+    },
+    {
+      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to...",
+      "date": "2026-06-16",
+      "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html"
+    },
+    {
+      "title": "Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP",
+      "source": "CISA Advisories",
+      "severity": "High",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could cause a denial-of-service condition that may result in a major nonrecoverable fault (MNRF). The following versions...",
+      "date": "2026-06-16",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03"
     }
   ]
 }
