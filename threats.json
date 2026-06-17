@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-16 16:43 UTC",
+  "lastUpdated": "2026-06-17 03:31 UTC",
   "items": [
+    {
+      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's...",
+      "date": "2026-06-17",
+      "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html"
+    },
+    {
+      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports...",
+      "date": "2026-06-16",
+      "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html"
+    },
     {
       "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS. \"The Windows variants discovered...",
       "date": "2026-06-16",
       "link": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html"
-    },
-    {
-      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to...",
-      "date": "2026-06-16",
-      "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html"
-    },
-    {
-      "title": "Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP",
-      "source": "CISA Advisories",
-      "severity": "High",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could cause a denial-of-service condition that may result in a major nonrecoverable fault (MNRF). The following versions...",
-      "date": "2026-06-16",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03"
     }
   ]
 }
