@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-06-18 02:58 UTC",
+  "lastUpdated": "2026-06-18 14:56 UTC",
   "items": [
     {
-      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
+      "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point...",
-      "date": "2026-06-17",
-      "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html"
-    },
-    {
-      "title": "Crypto Clipper uses Tor and worm-like propagation for persistence and control",
-      "source": "Microsoft Security Blog",
       "severity": "High",
-      "summary": "Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond...",
-      "date": "2026-06-17",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/"
+      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026. \"The clipper in this campaign relies on Windows Script...",
+      "date": "2026-06-18",
+      "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html"
     },
     {
-      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
+      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet. The vulnerability has now been assigned the CVE identifier...",
-      "date": "2026-06-17",
-      "link": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html"
+      "summary": "Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no...",
+      "date": "2026-06-18",
+      "link": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html"
     },
     {
-      "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials. Ordinary stuff, until one move near the end....",
-      "date": "2026-06-17",
-      "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html"
-    },
-    {
-      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
+      "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain. The problem is no longer visibility. It's validation. Security...",
-      "date": "2026-06-17",
-      "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html"
+      "summary": "An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here \u2192 When a customer types their card number into your...",
+      "date": "2026-06-18",
+      "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html"
     },
     {
-      "title": "Beyond the benchmark: Advancing security at AI speed",
+      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2)...",
+      "date": "2026-06-18",
+      "link": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html"
+    },
+    {
+      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the...",
+      "date": "2026-06-18",
+      "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html"
+    },
+    {
+      "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise",
       "source": "Microsoft Security Blog",
       "severity": "High",
-      "summary": "Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems....",
-      "date": "2026-06-17",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/"
+      "summary": "A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and...",
+      "date": "2026-06-18",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/"
     }
   ]
 }
