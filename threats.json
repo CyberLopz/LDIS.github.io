@@ -1,13 +1,37 @@
 {
-  "lastUpdated": "2026-06-17 15:13 UTC",
+  "lastUpdated": "2026-06-18 02:58 UTC",
   "items": [
     {
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating...",
+      "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point...",
       "date": "2026-06-17",
-      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html"
+      "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html"
+    },
+    {
+      "title": "Crypto Clipper uses Tor and worm-like propagation for persistence and control",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond...",
+      "date": "2026-06-17",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/"
+    },
+    {
+      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet. The vulnerability has now been assigned the CVE identifier...",
+      "date": "2026-06-17",
+      "link": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html"
+    },
+    {
+      "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials. Ordinary stuff, until one move near the end....",
+      "date": "2026-06-17",
+      "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html"
     },
     {
       "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
@@ -18,36 +42,12 @@
       "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html"
     },
     {
-      "title": "The Top 10 Attack Surface Exposures in 2026",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop \u2014 like...",
+      "title": "Beyond the benchmark: Advancing security at AI speed",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems....",
       "date": "2026-06-17",
-      "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html"
-    },
-    {
-      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI)...",
-      "date": "2026-06-17",
-      "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html"
-    },
-    {
-      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known...",
-      "date": "2026-06-17",
-      "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html"
-    },
-    {
-      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's...",
-      "date": "2026-06-17",
-      "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html"
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/"
     }
   ]
 }
