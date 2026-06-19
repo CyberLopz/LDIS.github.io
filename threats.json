@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-06-19 03:46 UTC",
+  "lastUpdated": "2026-06-19 14:52 UTC",
   "items": [
+    {
+      "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity...",
+      "date": "2026-06-19",
+      "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html"
+    },
+    {
+      "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Introduction The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in...",
+      "date": "2026-06-19",
+      "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html"
+    },
+    {
+      "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain...",
+      "date": "2026-06-19",
+      "link": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html"
+    },
+    {
+      "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on...",
+      "date": "2026-06-19",
+      "link": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html"
+    },
+    {
+      "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability,...",
+      "date": "2026-06-19",
+      "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html"
+    },
     {
       "title": "AutoJack: How a single page can RCE the host running your AI agent",
       "source": "Microsoft Security Blog",
@@ -8,46 +48,6 @@
       "summary": "AutoJack is a novel exploit chain showing how a single malicious webpage can turn an AI browsing agent into a remote code execution vector on the host machine. By abusing trust in...",
       "date": "2026-06-19",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/"
-    },
-    {
-      "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems. The vulnerabilities...",
-      "date": "2026-06-18",
-      "link": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html"
-    },
-    {
-      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the...",
-      "date": "2026-06-18",
-      "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The internet did not break this week. It got used exactly as designed, which is worse. Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery...",
-      "date": "2026-06-18",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html"
-    },
-    {
-      "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026. \"The clipper in this campaign relies on Windows Script...",
-      "date": "2026-06-18",
-      "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html"
-    },
-    {
-      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no...",
-      "date": "2026-06-18",
-      "link": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html"
     }
   ]
 }
