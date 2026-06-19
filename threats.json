@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-06-18 14:56 UTC",
+  "lastUpdated": "2026-06-19 03:46 UTC",
   "items": [
+    {
+      "title": "AutoJack: How a single page can RCE the host running your AI agent",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "AutoJack is a novel exploit chain showing how a single malicious webpage can turn an AI browsing agent into a remote code execution vector on the host machine. By abusing trust in...",
+      "date": "2026-06-19",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/"
+    },
+    {
+      "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems. The vulnerabilities...",
+      "date": "2026-06-18",
+      "link": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html"
+    },
+    {
+      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the...",
+      "date": "2026-06-18",
+      "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html"
+    },
+    {
+      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The internet did not break this week. It got used exactly as designed, which is worse. Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery...",
+      "date": "2026-06-18",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html"
+    },
     {
       "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no...",
       "date": "2026-06-18",
       "link": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html"
-    },
-    {
-      "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here \u2192 When a customer types their card number into your...",
-      "date": "2026-06-18",
-      "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html"
-    },
-    {
-      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2)...",
-      "date": "2026-06-18",
-      "link": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html"
-    },
-    {
-      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the...",
-      "date": "2026-06-18",
-      "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html"
-    },
-    {
-      "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and...",
-      "date": "2026-06-18",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/"
     }
   ]
 }
