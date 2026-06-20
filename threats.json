@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-06-19 14:52 UTC",
+  "lastUpdated": "2026-06-20 02:49 UTC",
   "items": [
+    {
+      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That...",
+      "date": "2026-06-20",
+      "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html"
+    },
+    {
+      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for...",
+      "date": "2026-06-20",
+      "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html"
+    },
+    {
+      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an...",
+      "date": "2026-06-19",
+      "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html"
+    },
+    {
+      "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly...",
+      "date": "2026-06-19",
+      "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html"
+    },
     {
       "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "Introduction The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in...",
       "date": "2026-06-19",
       "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html"
-    },
-    {
-      "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain...",
-      "date": "2026-06-19",
-      "link": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html"
-    },
-    {
-      "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on...",
-      "date": "2026-06-19",
-      "link": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html"
-    },
-    {
-      "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability,...",
-      "date": "2026-06-19",
-      "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html"
-    },
-    {
-      "title": "AutoJack: How a single page can RCE the host running your AI agent",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "AutoJack is a novel exploit chain showing how a single malicious webpage can turn an AI browsing agent into a remote code execution vector on the host machine. By abusing trust in...",
-      "date": "2026-06-19",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/"
     }
   ]
 }
