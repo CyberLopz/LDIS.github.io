@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-20 02:49 UTC",
+  "lastUpdated": "2026-06-20 13:49 UTC",
   "items": [
+    {
+      "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as...",
+      "date": "2026-06-20",
+      "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html"
+    },
     {
       "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity...",
       "date": "2026-06-19",
       "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html"
-    },
-    {
-      "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Introduction The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in...",
-      "date": "2026-06-19",
-      "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html"
     }
   ]
 }
