@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-06-23 02:43 UTC",
+  "lastUpdated": "2026-06-23 14:36 UTC",
   "items": [
+    {
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\"...",
+      "date": "2026-06-23",
+      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html"
+    },
+    {
+      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death...",
+      "date": "2026-06-23",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html"
+    },
+    {
+      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is...",
+      "date": "2026-06-23",
+      "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html"
+    },
+    {
+      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management...",
+      "date": "2026-06-23",
+      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html"
+    },
+    {
+      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "OpenAI on Monday said it's releasing an improved version of its GPT\u20115.5\u2011Cyber model to trusted defenders as part of the Daybreak initiative the artificial intelligence (AI) company...",
+      "date": "2026-06-23",
+      "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html"
+    },
     {
       "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor...",
       "date": "2026-06-22",
       "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html"
-    },
-    {
-      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers...",
-      "date": "2026-06-22",
-      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html"
-    },
-    {
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic...",
-      "date": "2026-06-22",
-      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html"
-    },
-    {
-      "title": "Guarding AI memory",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "What happens when threat actors target what AI remembers? Microsoft breaks down the risks and the defenses. The post Guarding AI memory appeared first on Microsoft Security Blog .",
-      "date": "2026-06-22",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/"
-    },
-    {
-      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER. According to Elastic...",
-      "date": "2026-06-22",
-      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html"
-    },
-    {
-      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Google has set September 30, 2026, as the day it begins enforcing Android developer verification in the first four countries, and the major device-maker app stores are in from the start....",
-      "date": "2026-06-22",
-      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html"
     }
   ]
 }
