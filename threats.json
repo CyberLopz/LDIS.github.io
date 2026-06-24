@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-06-24 02:43 UTC",
+  "lastUpdated": "2026-06-24 14:15 UTC",
   "items": [
+    {
+      "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains. The \"critical...",
+      "date": "2026-06-24",
+      "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html"
+    },
+    {
+      "title": "Dawn of the Apex Agentic Adversary",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "We are standing at the end of an era we never thought to mourn: the era of human-speed threats. For years, cybersecurity moved to a rhythm organizations could follow. A researcher found...",
+      "date": "2026-06-24",
+      "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html"
+    },
+    {
+      "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as...",
+      "date": "2026-06-24",
+      "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html"
+    },
+    {
+      "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session...",
+      "date": "2026-06-24",
+      "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html"
+    },
     {
       "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate...",
       "date": "2026-06-23",
       "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html"
-    },
-    {
-      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "President Trump signed an executive order on June 22 setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography. Key...",
-      "date": "2026-06-23",
-      "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html"
-    },
-    {
-      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\"...",
-      "date": "2026-06-23",
-      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html"
-    },
-    {
-      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death...",
-      "date": "2026-06-23",
-      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html"
-    },
-    {
-      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is...",
-      "date": "2026-06-23",
-      "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html"
     }
   ]
 }
