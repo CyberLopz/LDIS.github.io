@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-23 14:36 UTC",
+  "lastUpdated": "2026-06-24 02:43 UTC",
   "items": [
+    {
+      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over...",
+      "date": "2026-06-23",
+      "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html"
+    },
+    {
+      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate...",
+      "date": "2026-06-23",
+      "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html"
+    },
+    {
+      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "President Trump signed an executive order on June 22 setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography. Key...",
+      "date": "2026-06-23",
+      "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html"
+    },
     {
       "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is...",
       "date": "2026-06-23",
       "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html"
-    },
-    {
-      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management...",
-      "date": "2026-06-23",
-      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html"
-    },
-    {
-      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "OpenAI on Monday said it's releasing an improved version of its GPT\u20115.5\u2011Cyber model to trusted defenders as part of the Daybreak initiative the artificial intelligence (AI) company...",
-      "date": "2026-06-23",
-      "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html"
-    },
-    {
-      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor...",
-      "date": "2026-06-22",
-      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html"
     }
   ]
 }
