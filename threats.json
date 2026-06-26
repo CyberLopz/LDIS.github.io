@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-25 14:14 UTC",
+  "lastUpdated": "2026-06-26 02:48 UTC",
   "items": [
+    {
+      "title": "Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and...",
+      "date": "2026-06-25",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/"
+    },
+    {
+      "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock...",
+      "date": "2026-06-25",
+      "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html"
+    },
     {
       "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
       "source": "The Hacker News",
@@ -18,36 +34,20 @@
       "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html"
     },
     {
+      "title": "Microsoft a Leader in The Forrester Wave\u2122 for Endpoint Management Platforms",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft named a Leader in the Forrester Wave\u2122: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories. The post Microsoft a...",
+      "date": "2026-06-25",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/"
+    },
+    {
       "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
       "source": "The Hacker News",
       "severity": "Medium",
       "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial...",
       "date": "2026-06-25",
       "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html"
-    },
-    {
-      "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and...",
-      "date": "2026-06-25",
-      "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html"
-    },
-    {
-      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed,...",
-      "date": "2026-06-25",
-      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html"
-    },
-    {
-      "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging...",
-      "date": "2026-06-24",
-      "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html"
     }
   ]
 }
