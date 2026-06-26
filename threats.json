@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-06-26 02:48 UTC",
+  "lastUpdated": "2026-06-26 14:12 UTC",
   "items": [
     {
-      "title": "Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access",
-      "source": "Microsoft Security Blog",
+      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+      "source": "The Hacker News",
       "severity": "High",
-      "summary": "Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and...",
-      "date": "2026-06-25",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/"
+      "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write...",
+      "date": "2026-06-26",
+      "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html"
     },
     {
-      "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock...",
-      "date": "2026-06-25",
-      "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html"
+      "severity": "Critical",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM...",
+      "date": "2026-06-26",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html"
     },
     {
-      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "It\u2019s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open \u2014 old creds still working, trusted apps doing sketchy crap,...",
-      "date": "2026-06-25",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html"
-    },
-    {
-      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Despite the abundance of telemetry at analysts\u2019 disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What...",
-      "date": "2026-06-25",
-      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html"
-    },
-    {
-      "title": "Microsoft a Leader in The Forrester Wave\u2122 for Endpoint Management Platforms",
-      "source": "Microsoft Security Blog",
       "severity": "High",
-      "summary": "Microsoft named a Leader in the Forrester Wave\u2122: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories. The post Microsoft a...",
-      "date": "2026-06-25",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/"
+      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family. JFrog Security Research published a working exploit walkthrough for the flaw on June 25, the first public...",
+      "date": "2026-06-26",
+      "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html"
     },
     {
-      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+      "title": "Guardian Agents: The Next Layer of Identity Governance",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity...",
+      "date": "2026-06-26",
+      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html"
+    },
+    {
+      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial...",
-      "date": "2026-06-25",
-      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html"
+      "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of...",
+      "date": "2026-06-26",
+      "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html"
+    },
+    {
+      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant...",
+      "date": "2026-06-26",
+      "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html"
     }
   ]
 }
