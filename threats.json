@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-26 14:12 UTC",
+  "lastUpdated": "2026-06-27 02:39 UTC",
   "items": [
+    {
+      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The FBI and CISA have updated their March warning about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their...",
+      "date": "2026-06-27",
+      "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html"
+    },
+    {
+      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon...",
+      "date": "2026-06-26",
+      "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html"
+    },
+    {
+      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical...",
+      "date": "2026-06-26",
+      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html"
+    },
     {
       "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
       "source": "The Hacker News",
@@ -10,44 +34,20 @@
       "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html"
     },
     {
+      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the...",
+      "date": "2026-06-26",
+      "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html"
+    },
+    {
       "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
       "source": "The Hacker News",
       "severity": "Critical",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM...",
       "date": "2026-06-26",
       "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html"
-    },
-    {
-      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family. JFrog Security Research published a working exploit walkthrough for the flaw on June 25, the first public...",
-      "date": "2026-06-26",
-      "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html"
-    },
-    {
-      "title": "Guardian Agents: The Next Layer of Identity Governance",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity...",
-      "date": "2026-06-26",
-      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html"
-    },
-    {
-      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of...",
-      "date": "2026-06-26",
-      "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html"
-    },
-    {
-      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant...",
-      "date": "2026-06-26",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html"
     }
   ]
 }
