@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-27 02:39 UTC",
+  "lastUpdated": "2026-06-27 13:21 UTC",
   "items": [
+    {
+      "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S....",
+      "date": "2026-06-27",
+      "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html"
+    },
     {
       "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the...",
       "date": "2026-06-26",
       "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html"
-    },
-    {
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM...",
-      "date": "2026-06-26",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html"
     }
   ]
 }
