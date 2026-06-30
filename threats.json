@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-29 15:36 UTC",
+  "lastUpdated": "2026-06-30 02:48 UTC",
   "items": [
+    {
+      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character...",
+      "date": "2026-06-30",
+      "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html"
+    },
+    {
+      "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform. The...",
+      "date": "2026-06-29",
+      "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html"
+    },
+    {
+      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The China-aligned espionage group Mustang Panda is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud...",
+      "date": "2026-06-29",
+      "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html"
+    },
     {
       "title": "\u26a1 Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "Today\u2019s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers....",
       "date": "2026-06-29",
       "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html"
-    },
-    {
-      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian...",
-      "date": "2026-06-29",
-      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html"
-    },
-    {
-      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install...",
-      "date": "2026-06-29",
-      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html"
-    },
-    {
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with...",
-      "date": "2026-06-29",
-      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html"
     }
   ]
 }
