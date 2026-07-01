@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-01 02:54 UTC",
+  "lastUpdated": "2026-07-01 14:22 UTC",
   "items": [
     {
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity...",
+      "date": "2026-07-01",
+      "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html"
+    },
+    {
+      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over...",
-      "date": "2026-06-30",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html"
+      "summary": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption...",
+      "date": "2026-07-01",
+      "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html"
     },
     {
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to...",
+      "date": "2026-07-01",
+      "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html"
+    },
+    {
+      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock...",
-      "date": "2026-06-30",
-      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html"
+      "summary": "Anthropic is putting Claude Fable 5 back online worldwide. On June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled...",
+      "date": "2026-07-01",
+      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html"
     },
     {
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to...",
-      "date": "2026-06-30",
-      "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html"
+      "severity": "High",
+      "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in...",
+      "date": "2026-07-01",
+      "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html"
     },
     {
-      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users...",
-      "date": "2026-06-30",
-      "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html"
-    },
-    {
-      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
+      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades. New...",
-      "date": "2026-06-30",
-      "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html"
-    },
-    {
-      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic. In many cases, the path in was...",
-      "date": "2026-06-30",
-      "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html"
+      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office. New research shows the malicious commands behind its fake \"prove you're human\" pages...",
+      "date": "2026-07-01",
+      "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html"
     }
   ]
 }
