@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-01 14:22 UTC",
+  "lastUpdated": "2026-07-02 02:44 UTC",
   "items": [
     {
-      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity...",
-      "date": "2026-07-01",
-      "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html"
+      "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can...",
+      "date": "2026-07-02",
+      "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html"
     },
     {
-      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption...",
-      "date": "2026-07-01",
-      "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html"
-    },
-    {
-      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to...",
-      "date": "2026-07-01",
-      "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html"
-    },
-    {
-      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Anthropic is putting Claude Fable 5 back online worldwide. On June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled...",
-      "date": "2026-07-01",
-      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html"
+      "summary": "A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S....",
+      "date": "2026-07-02",
+      "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html"
     },
     {
-      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in...",
-      "date": "2026-07-01",
-      "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html"
-    },
-    {
-      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
+      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office. New research shows the malicious commands behind its fake \"prove you're human\" pages...",
+      "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain,...",
       "date": "2026-07-01",
-      "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html"
+      "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html"
+    },
+    {
+      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs....",
+      "date": "2026-07-01",
+      "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html"
+    },
+    {
+      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal. Fortinet's FortiGuard Labs identified the campaign in May 2026. It opens with a...",
+      "date": "2026-07-01",
+      "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html"
+    },
+    {
+      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important...",
+      "date": "2026-07-01",
+      "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html"
     }
   ]
 }
