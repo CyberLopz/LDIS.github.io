@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-02 02:44 UTC",
+  "lastUpdated": "2026-07-02 13:46 UTC",
   "items": [
     {
-      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can...",
+      "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API....",
       "date": "2026-07-02",
-      "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html"
+      "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html"
     },
     {
-      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+      "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S....",
+      "severity": "High",
+      "summary": "Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals...",
       "date": "2026-07-02",
-      "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html"
+      "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html"
     },
     {
-      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain,...",
-      "date": "2026-07-01",
-      "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html"
-    },
-    {
-      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs....",
-      "date": "2026-07-01",
-      "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html"
-    },
-    {
-      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal. Fortinet's FortiGuard Labs identified the campaign in May 2026. It opens with a...",
-      "date": "2026-07-01",
-      "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html"
-    },
-    {
-      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important...",
-      "date": "2026-07-01",
-      "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html"
+      "summary": "Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and...",
+      "date": "2026-07-02",
+      "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html"
+    },
+    {
+      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were...",
+      "date": "2026-07-02",
+      "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html"
+    },
+    {
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept...",
+      "date": "2026-07-02",
+      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html"
+    },
+    {
+      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities...",
+      "date": "2026-07-02",
+      "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html"
     }
   ]
 }
