@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-03 02:26 UTC",
+  "lastUpdated": "2026-07-03 13:50 UTC",
   "items": [
+    {
+      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and...",
+      "date": "2026-07-03",
+      "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html"
+    },
+    {
+      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware...",
+      "date": "2026-07-03",
+      "link": "https://thehackernews.com/2026/07/european-parliament-member.html"
+    },
+    {
+      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer,...",
+      "date": "2026-07-03",
+      "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html"
+    },
     {
       "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "This week\u2019s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until...",
       "date": "2026-07-02",
       "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html"
-    },
-    {
-      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API....",
-      "date": "2026-07-02",
-      "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html"
-    },
-    {
-      "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals...",
-      "date": "2026-07-02",
-      "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html"
-    },
-    {
-      "title": "Improving security posture across the Microsoft partner ecosystem",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Read how Microsoft strengthens partner ecosystem security with CSP vetting, least privilege access, monitoring, and risk management best practices. The post Improving security posture...",
-      "date": "2026-07-02",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/"
     }
   ]
 }
