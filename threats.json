@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-02 13:46 UTC",
+  "lastUpdated": "2026-07-03 02:26 UTC",
   "items": [
+    {
+      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others,...",
+      "date": "2026-07-03",
+      "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html"
+    },
+    {
+      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics...",
+      "date": "2026-07-03",
+      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html"
+    },
+    {
+      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "This week\u2019s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until...",
+      "date": "2026-07-02",
+      "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html"
+    },
     {
       "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
       "source": "The Hacker News",
@@ -18,36 +42,12 @@
       "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html"
     },
     {
-      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and...",
-      "date": "2026-07-02",
-      "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html"
-    },
-    {
-      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were...",
-      "date": "2026-07-02",
-      "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html"
-    },
-    {
-      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
-      "source": "The Hacker News",
+      "title": "Improving security posture across the Microsoft partner ecosystem",
+      "source": "Microsoft Security Blog",
       "severity": "High",
-      "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept...",
+      "summary": "Read how Microsoft strengthens partner ecosystem security with CSP vetting, least privilege access, monitoring, and risk management best practices. The post Improving security posture...",
       "date": "2026-07-02",
-      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html"
-    },
-    {
-      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities...",
-      "date": "2026-07-02",
-      "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html"
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/"
     }
   ]
 }
