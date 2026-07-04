@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-04 02:25 UTC",
+  "lastUpdated": "2026-07-04 13:11 UTC",
   "items": [
+    {
+      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and...",
+      "date": "2026-07-04",
+      "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html"
+    },
     {
       "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and...",
       "date": "2026-07-03",
       "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html"
-    },
-    {
-      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware...",
-      "date": "2026-07-03",
-      "link": "https://thehackernews.com/2026/07/european-parliament-member.html"
     }
   ]
 }
