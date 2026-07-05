@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-04 13:11 UTC",
+  "lastUpdated": "2026-07-05 02:34 UTC",
   "items": [
+    {
+      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation...",
+      "date": "2026-07-04",
+      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html"
+    },
     {
       "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft....",
       "date": "2026-07-03",
       "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html"
-    },
-    {
-      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and...",
-      "date": "2026-07-03",
-      "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html"
     }
   ]
 }
