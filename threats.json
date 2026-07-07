@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-06 15:20 UTC",
+  "lastUpdated": "2026-07-07 02:34 UTC",
   "items": [
+    {
+      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed...",
+      "date": "2026-07-07",
+      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html"
+    },
+    {
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and...",
+      "date": "2026-07-06",
+      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html"
+    },
+    {
+      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is...",
+      "date": "2026-07-06",
+      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html"
+    },
     {
       "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to...",
       "date": "2026-07-06",
       "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html"
-    },
-    {
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in...",
-      "date": "2026-07-06",
-      "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html"
-    },
-    {
-      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to...",
-      "date": "2026-07-06",
-      "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html"
-    },
-    {
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data...",
-      "date": "2026-07-06",
-      "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html"
     }
   ]
 }
