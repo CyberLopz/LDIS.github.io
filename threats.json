@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-07-07 14:17 UTC",
+  "lastUpdated": "2026-07-08 02:08 UTC",
   "items": [
+    {
+      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal...",
+      "date": "2026-07-07",
+      "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html"
+    },
+    {
+      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud...",
+      "date": "2026-07-07",
+      "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html"
+    },
+    {
+      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early...",
+      "date": "2026-07-07",
+      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html"
+    },
+    {
+      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to...",
+      "date": "2026-07-07",
+      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html"
+    },
     {
       "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that...",
       "date": "2026-07-07",
       "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html"
-    },
-    {
-      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline. For five years, \"software supply chain security\" meant one question: what's in your code? Which...",
-      "date": "2026-07-07",
-      "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html"
-    },
-    {
-      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian...",
-      "date": "2026-07-07",
-      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html"
-    },
-    {
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to...",
-      "date": "2026-07-07",
-      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html"
-    },
-    {
-      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could...",
-      "date": "2026-07-07",
-      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html"
     }
   ]
 }
