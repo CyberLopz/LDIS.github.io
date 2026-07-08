@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-08 02:08 UTC",
+  "lastUpdated": "2026-07-08 13:49 UTC",
   "items": [
     {
-      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal...",
-      "date": "2026-07-07",
-      "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html"
+      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing...",
+      "date": "2026-07-08",
+      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html"
     },
     {
-      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud...",
-      "date": "2026-07-07",
-      "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html"
-    },
-    {
-      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+      "title": "The Verification Step Is the New ATO Battleground in 2026",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early...",
-      "date": "2026-07-07",
-      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html"
+      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential...",
+      "date": "2026-07-08",
+      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html"
     },
     {
-      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to...",
-      "date": "2026-07-07",
-      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html"
+      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code...",
+      "date": "2026-07-08",
+      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html"
     },
     {
-      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal...",
-      "date": "2026-07-07",
-      "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html"
+      "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices....",
+      "date": "2026-07-08",
+      "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html"
     },
     {
-      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not...",
+      "date": "2026-07-08",
+      "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html"
+    },
+    {
+      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that...",
-      "date": "2026-07-07",
-      "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html"
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...",
+      "date": "2026-07-08",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html"
     }
   ]
 }
