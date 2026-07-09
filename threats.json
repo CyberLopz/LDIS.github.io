@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-07-08 13:49 UTC",
+  "lastUpdated": "2026-07-09 02:26 UTC",
   "items": [
+    {
+      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human...",
+      "date": "2026-07-08",
+      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html"
+    },
+    {
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New...",
+      "date": "2026-07-08",
+      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html"
+    },
+    {
+      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege...",
+      "date": "2026-07-08",
+      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html"
+    },
+    {
+      "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This \u201cghost phishing\u201d technique keeps the malicious page hidden...",
+      "date": "2026-07-08",
+      "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html"
+    },
+    {
+      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked...",
+      "date": "2026-07-08",
+      "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html"
+    },
     {
       "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing...",
       "date": "2026-07-08",
       "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html"
-    },
-    {
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential...",
-      "date": "2026-07-08",
-      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html"
-    },
-    {
-      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code...",
-      "date": "2026-07-08",
-      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html"
-    },
-    {
-      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices....",
-      "date": "2026-07-08",
-      "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html"
-    },
-    {
-      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not...",
-      "date": "2026-07-08",
-      "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html"
-    },
-    {
-      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...",
-      "date": "2026-07-08",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html"
     }
   ]
 }
