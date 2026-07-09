@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-09 02:26 UTC",
+  "lastUpdated": "2026-07-09 14:44 UTC",
   "items": [
     {
-      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human...",
-      "date": "2026-07-08",
-      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html"
+      "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and...",
+      "date": "2026-07-09",
+      "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html"
     },
     {
-      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "title": "Summer of Clearinghouses",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New...",
-      "date": "2026-07-08",
-      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html"
+      "summary": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running...",
+      "date": "2026-07-09",
+      "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html"
     },
     {
-      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege...",
-      "date": "2026-07-08",
-      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html"
+      "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion...",
+      "date": "2026-07-09",
+      "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html"
     },
     {
-      "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
+      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This \u201cghost phishing\u201d technique keeps the malicious page hidden...",
-      "date": "2026-07-08",
-      "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html"
+      "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public. The vulnerability, tracked as...",
+      "date": "2026-07-09",
+      "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html"
     },
     {
-      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked...",
-      "date": "2026-07-08",
-      "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html"
-    },
-    {
-      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
+      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing...",
-      "date": "2026-07-08",
-      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html"
+      "summary": "Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default. \"You...",
+      "date": "2026-07-09",
+      "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html"
+    },
+    {
+      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a proof-of-concept published...",
+      "date": "2026-07-09",
+      "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html"
     }
   ]
 }
