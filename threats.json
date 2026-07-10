@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-07-09 14:44 UTC",
+  "lastUpdated": "2026-07-10 02:28 UTC",
   "items": [
+    {
+      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub...",
+      "date": "2026-07-10",
+      "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html"
+    },
+    {
+      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one,...",
+      "date": "2026-07-09",
+      "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html"
+    },
+    {
+      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor...",
+      "date": "2026-07-09",
+      "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html"
+    },
+    {
+      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it. This week is full of...",
+      "date": "2026-07-09",
+      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html"
+    },
     {
       "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running...",
       "date": "2026-07-09",
       "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html"
-    },
-    {
-      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion...",
-      "date": "2026-07-09",
-      "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html"
-    },
-    {
-      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public. The vulnerability, tracked as...",
-      "date": "2026-07-09",
-      "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html"
-    },
-    {
-      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default. \"You...",
-      "date": "2026-07-09",
-      "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html"
-    },
-    {
-      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a proof-of-concept published...",
-      "date": "2026-07-09",
-      "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html"
     }
   ]
 }
