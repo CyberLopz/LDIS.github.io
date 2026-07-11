@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-11 02:05 UTC",
+  "lastUpdated": "2026-07-11 13:05 UTC",
   "items": [
+    {
+      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability...",
+      "date": "2026-07-11",
+      "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html"
+    },
     {
       "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential...",
       "date": "2026-07-10",
       "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html"
-    },
-    {
-      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that...",
-      "date": "2026-07-10",
-      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html"
     }
   ]
 }
