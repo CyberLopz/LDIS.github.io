@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-11 13:05 UTC",
+  "lastUpdated": "2026-07-12 02:09 UTC",
   "items": [
+    {
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a...",
+      "date": "2026-07-11",
+      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html"
+    },
+    {
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and...",
+      "date": "2026-07-11",
+      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html"
+    },
     {
       "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management...",
       "date": "2026-07-10",
       "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html"
-    },
-    {
-      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to...",
-      "date": "2026-07-10",
-      "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html"
-    },
-    {
-      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential...",
-      "date": "2026-07-10",
-      "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html"
     }
   ]
 }
