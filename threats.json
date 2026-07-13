@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-13 02:11 UTC",
+  "lastUpdated": "2026-07-13 14:20 UTC",
   "items": [
     {
-      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a...",
-      "date": "2026-07-11",
-      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html"
+      "severity": "High",
+      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial...",
+      "date": "2026-07-13",
+      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html"
     },
     {
-      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and...",
-      "date": "2026-07-11",
-      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html"
+      "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log...",
+      "date": "2026-07-13",
+      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html"
     },
     {
-      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had...",
+      "date": "2026-07-13",
+      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html"
+    },
+    {
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked...",
+      "date": "2026-07-13",
+      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html"
+    },
+    {
+      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m...",
+      "date": "2026-07-13",
+      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html"
+    },
+    {
+      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability...",
-      "date": "2026-07-11",
-      "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html"
-    },
-    {
-      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible...",
-      "date": "2026-07-10",
-      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html"
-    },
-    {
-      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet...",
-      "date": "2026-07-10",
-      "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html"
-    },
-    {
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management...",
-      "date": "2026-07-10",
-      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html"
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited...",
+      "date": "2026-07-13",
+      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html"
     }
   ]
 }
