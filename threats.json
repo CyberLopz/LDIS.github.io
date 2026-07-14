@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-14 01:57 UTC",
+  "lastUpdated": "2026-07-14 13:20 UTC",
   "items": [
     {
-      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems...",
+      "date": "2026-07-14",
+      "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html"
+    },
+    {
+      "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information...",
-      "date": "2026-07-13",
-      "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html"
+      "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using...",
+      "date": "2026-07-14",
+      "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html"
     },
     {
-      "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still...",
+      "date": "2026-07-14",
+      "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html"
+    },
+    {
+      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history...",
-      "date": "2026-07-13",
-      "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html"
+      "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users...",
+      "date": "2026-07-14",
+      "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html"
     },
     {
-      "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain...",
-      "date": "2026-07-13",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/"
+      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A...",
+      "date": "2026-07-14",
+      "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html"
     },
     {
-      "title": "\u26a1 Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+      "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools,...",
-      "date": "2026-07-13",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html"
-    },
-    {
-      "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a...",
-      "date": "2026-07-13",
-      "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html"
-    },
-    {
-      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial...",
-      "date": "2026-07-13",
-      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html"
+      "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals'...",
+      "date": "2026-07-14",
+      "link": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html"
     }
   ]
 }
