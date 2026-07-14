@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-07-13 14:20 UTC",
+  "lastUpdated": "2026-07-14 01:57 UTC",
   "items": [
+    {
+      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information...",
+      "date": "2026-07-13",
+      "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html"
+    },
+    {
+      "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history...",
+      "date": "2026-07-13",
+      "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html"
+    },
+    {
+      "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain...",
+      "date": "2026-07-13",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools,...",
+      "date": "2026-07-13",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html"
+    },
+    {
+      "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a...",
+      "date": "2026-07-13",
+      "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html"
+    },
     {
       "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial...",
       "date": "2026-07-13",
       "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html"
-    },
-    {
-      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log...",
-      "date": "2026-07-13",
-      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html"
-    },
-    {
-      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had...",
-      "date": "2026-07-13",
-      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html"
-    },
-    {
-      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked...",
-      "date": "2026-07-13",
-      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html"
-    },
-    {
-      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m...",
-      "date": "2026-07-13",
-      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html"
-    },
-    {
-      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited...",
-      "date": "2026-07-13",
-      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html"
     }
   ]
 }
