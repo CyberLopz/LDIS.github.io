@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-15 01:53 UTC",
+  "lastUpdated": "2026-07-15 13:23 UTC",
   "items": [
     {
-      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+      "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its...",
+      "severity": "Medium",
+      "summary": "For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up. Enterprise...",
       "date": "2026-07-15",
-      "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html"
+      "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html"
     },
     {
-      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP. The...",
-      "date": "2026-07-14",
-      "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html"
+      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service...",
+      "date": "2026-07-15",
+      "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html"
     },
     {
-      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+      "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar....",
-      "date": "2026-07-14",
-      "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html"
+      "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages. This...",
+      "date": "2026-07-15",
+      "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html"
     },
     {
-      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target...",
-      "date": "2026-07-14",
-      "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html"
+      "summary": "Open a repository in Cursor on Windows and, if a file named git.exe is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder...",
+      "date": "2026-07-15",
+      "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html"
     },
     {
-      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client...",
-      "date": "2026-07-14",
-      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html"
+      "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and...",
+      "date": "2026-07-15",
+      "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html"
     },
     {
-      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+      "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems...",
-      "date": "2026-07-14",
-      "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html"
+      "severity": "Critical",
+      "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve...",
+      "date": "2026-07-15",
+      "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html"
     }
   ]
 }
