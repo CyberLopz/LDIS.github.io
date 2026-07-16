@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-16 02:03 UTC",
+  "lastUpdated": "2026-07-16 13:38 UTC",
   "items": [
     {
-      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with...",
+      "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The...",
       "date": "2026-07-16",
-      "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html"
+      "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html"
     },
     {
-      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an...",
-      "date": "2026-07-15",
-      "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html"
-    },
-    {
-      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an...",
-      "date": "2026-07-15",
-      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
-    },
-    {
-      "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up. Enterprise...",
-      "date": "2026-07-15",
-      "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html"
+      "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into...",
+      "date": "2026-07-16",
+      "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html"
     },
     {
-      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service...",
-      "date": "2026-07-15",
-      "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html"
-    },
-    {
-      "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
+      "title": "20+ Hijacked Government Websites Became an Attack Channel",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages. This...",
-      "date": "2026-07-15",
-      "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html"
+      "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of...",
+      "date": "2026-07-16",
+      "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html"
+    },
+    {
+      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a...",
+      "date": "2026-07-16",
+      "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html"
+    },
+    {
+      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported...",
+      "date": "2026-07-16",
+      "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html"
+    },
+    {
+      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools...",
+      "date": "2026-07-16",
+      "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html"
     }
   ]
 }
