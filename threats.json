@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-15 13:23 UTC",
+  "lastUpdated": "2026-07-16 02:03 UTC",
   "items": [
+    {
+      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with...",
+      "date": "2026-07-16",
+      "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html"
+    },
+    {
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an...",
+      "date": "2026-07-15",
+      "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html"
+    },
+    {
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an...",
+      "date": "2026-07-15",
+      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
+    },
     {
       "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages. This...",
       "date": "2026-07-15",
       "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html"
-    },
-    {
-      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Open a repository in Cursor on Windows and, if a file named git.exe is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder...",
-      "date": "2026-07-15",
-      "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html"
-    },
-    {
-      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and...",
-      "date": "2026-07-15",
-      "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html"
-    },
-    {
-      "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve...",
-      "date": "2026-07-15",
-      "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html"
     }
   ]
 }
