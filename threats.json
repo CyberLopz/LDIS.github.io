@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-07-16 13:38 UTC",
+  "lastUpdated": "2026-07-17 02:07 UTC",
   "items": [
+    {
+      "title": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "From late April 2026 to mid-June 2026, Microsoft Defender Experts observed increased ACR Stealer activity across customer environments. These campaigns are successfully using ClickFix...",
+      "date": "2026-07-16",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/"
+    },
+    {
+      "title": "Two Scattered Spider Hackers Get 5.5 Years Each for \u00a329 Million TfL Hack",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London. The...",
+      "date": "2026-07-16",
+      "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html"
+    },
+    {
+      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A lot of this week\u2019s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts...",
+      "date": "2026-07-16",
+      "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html"
+    },
+    {
+      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT...",
+      "date": "2026-07-16",
+      "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html"
+    },
     {
       "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into...",
       "date": "2026-07-16",
       "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html"
-    },
-    {
-      "title": "20+ Hijacked Government Websites Became an Attack Channel",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of...",
-      "date": "2026-07-16",
-      "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html"
-    },
-    {
-      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a...",
-      "date": "2026-07-16",
-      "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html"
-    },
-    {
-      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported...",
-      "date": "2026-07-16",
-      "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html"
-    },
-    {
-      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools...",
-      "date": "2026-07-16",
-      "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html"
     }
   ]
 }
