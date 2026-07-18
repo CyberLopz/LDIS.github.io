@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-17 13:15 UTC",
+  "lastUpdated": "2026-07-18 01:56 UTC",
   "items": [
     {
-      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a...",
-      "date": "2026-07-17",
-      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html"
-    },
-    {
-      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and...",
-      "date": "2026-07-17",
-      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html"
-    },
-    {
-      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His...",
-      "date": "2026-07-17",
-      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html"
-    },
-    {
-      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files...",
-      "date": "2026-07-17",
-      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html"
+      "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when...",
+      "date": "2026-07-18",
+      "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html"
     },
     {
-      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late...",
-      "date": "2026-07-17",
-      "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html"
+      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the...",
+      "date": "2026-07-18",
+      "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html"
     },
     {
-      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited...",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious...",
+      "date": "2026-07-18",
+      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html"
+    },
+    {
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue...",
       "date": "2026-07-17",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html"
+      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html"
+    },
+    {
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the...",
+      "date": "2026-07-17",
+      "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html"
+    },
+    {
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign...",
+      "date": "2026-07-17",
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html"
     }
   ]
 }
