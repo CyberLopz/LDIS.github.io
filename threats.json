@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-19 13:03 UTC",
+  "lastUpdated": "2026-07-20 02:28 UTC",
   "items": [
+    {
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests....",
+      "date": "2026-07-20",
+      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html"
+    },
+    {
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing...",
+      "date": "2026-07-19",
+      "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html"
+    },
+    {
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior...",
+      "date": "2026-07-19",
+      "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html"
+    },
     {
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious...",
       "date": "2026-07-18",
       "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html"
-    },
-    {
-      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue...",
-      "date": "2026-07-17",
-      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html"
-    },
-    {
-      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the...",
-      "date": "2026-07-17",
-      "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html"
-    },
-    {
-      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign...",
-      "date": "2026-07-17",
-      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html"
     }
   ]
 }
