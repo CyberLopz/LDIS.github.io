@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-20 02:28 UTC",
+  "lastUpdated": "2026-07-20 13:54 UTC",
   "items": [
     {
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests....",
+      "severity": "High",
+      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often...",
       "date": "2026-07-20",
-      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html"
+      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html"
     },
     {
-      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing...",
-      "date": "2026-07-19",
-      "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html"
+      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes,...",
+      "date": "2026-07-20",
+      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html"
     },
     {
-      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior...",
-      "date": "2026-07-19",
-      "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html"
-    },
-    {
-      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public....",
-      "date": "2026-07-18",
-      "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html"
+      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would...",
+      "date": "2026-07-20",
+      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html"
     },
     {
-      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the...",
-      "date": "2026-07-18",
-      "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html"
+      "severity": "High",
+      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked...",
+      "date": "2026-07-20",
+      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html"
     },
     {
-      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious...",
-      "date": "2026-07-18",
-      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html"
+      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live...",
+      "date": "2026-07-20",
+      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html"
+    },
+    {
+      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company...",
+      "date": "2026-07-20",
+      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html"
     }
   ]
 }
