@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-21 02:06 UTC",
+  "lastUpdated": "2026-07-21 13:25 UTC",
   "items": [
     {
-      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol...",
-      "date": "2026-07-20",
-      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html"
+      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps,...",
+      "date": "2026-07-21",
+      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html"
     },
     {
-      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments,...",
-      "date": "2026-07-20",
-      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html"
-    },
-    {
-      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments...",
-      "date": "2026-07-20",
-      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often...",
-      "date": "2026-07-20",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html"
-    },
-    {
-      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes,...",
-      "date": "2026-07-20",
-      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html"
+      "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that...",
+      "date": "2026-07-21",
+      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html"
     },
     {
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would...",
-      "date": "2026-07-20",
-      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html"
+      "severity": "High",
+      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is...",
+      "date": "2026-07-21",
+      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html"
+    },
+    {
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of...",
+      "date": "2026-07-21",
+      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html"
+    },
+    {
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has...",
+      "date": "2026-07-21",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html"
+    },
+    {
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence...",
+      "date": "2026-07-21",
+      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html"
     }
   ]
 }
