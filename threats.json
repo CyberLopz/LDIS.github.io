@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-20 13:54 UTC",
+  "lastUpdated": "2026-07-21 02:06 UTC",
   "items": [
+    {
+      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol...",
+      "date": "2026-07-20",
+      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html"
+    },
+    {
+      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments,...",
+      "date": "2026-07-20",
+      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html"
+    },
+    {
+      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments...",
+      "date": "2026-07-20",
+      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html"
+    },
     {
       "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would...",
       "date": "2026-07-20",
       "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html"
-    },
-    {
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked...",
-      "date": "2026-07-20",
-      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html"
-    },
-    {
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live...",
-      "date": "2026-07-20",
-      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html"
-    },
-    {
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company...",
-      "date": "2026-07-20",
-      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html"
     }
   ]
 }
