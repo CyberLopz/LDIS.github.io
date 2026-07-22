@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-07-22 02:04 UTC",
+  "lastUpdated": "2026-07-22 13:29 UTC",
   "items": [
+    {
+      "title": "Why Modern SOCs Need Multi-Layered Detections",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply...",
+      "date": "2026-07-22",
+      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html"
+    },
+    {
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and...",
+      "date": "2026-07-22",
+      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html"
+    },
+    {
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed...",
+      "date": "2026-07-22",
+      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html"
+    },
+    {
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and...",
+      "date": "2026-07-22",
+      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html"
+    },
+    {
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that...",
+      "date": "2026-07-22",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html"
+    },
     {
       "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees....",
       "date": "2026-07-22",
       "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html"
-    },
-    {
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step...",
-      "date": "2026-07-21",
-      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html"
-    },
-    {
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate,...",
-      "date": "2026-07-21",
-      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html"
-    },
-    {
-      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is...",
-      "date": "2026-07-21",
-      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html"
-    },
-    {
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim...",
-      "date": "2026-07-21",
-      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html"
-    },
-    {
-      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As...",
-      "date": "2026-07-21",
-      "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html"
     }
   ]
 }
