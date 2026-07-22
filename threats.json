@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-21 13:25 UTC",
+  "lastUpdated": "2026-07-22 02:04 UTC",
   "items": [
     {
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps,...",
-      "date": "2026-07-21",
-      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html"
+      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees....",
+      "date": "2026-07-22",
+      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html"
     },
     {
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that...",
+      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step...",
       "date": "2026-07-21",
-      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html"
+      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html"
     },
     {
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is...",
+      "severity": "Medium",
+      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate,...",
       "date": "2026-07-21",
-      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html"
+      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html"
     },
     {
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of...",
-      "date": "2026-07-21",
-      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html"
-    },
-    {
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has...",
+      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is...",
       "date": "2026-07-21",
-      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html"
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html"
     },
     {
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence...",
+      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim...",
       "date": "2026-07-21",
-      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html"
+      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html"
+    },
+    {
+      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As...",
+      "date": "2026-07-21",
+      "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html"
     }
   ]
 }
