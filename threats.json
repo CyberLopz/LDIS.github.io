@@ -1,37 +1,45 @@
 {
-  "lastUpdated": "2026-07-22 13:29 UTC",
+  "lastUpdated": "2026-07-23 02:11 UTC",
   "items": [
     {
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
+      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply...",
-      "date": "2026-07-22",
-      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html"
+      "severity": "Critical",
+      "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while...",
+      "date": "2026-07-23",
+      "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html"
     },
     {
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and...",
+      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and...",
       "date": "2026-07-22",
-      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html"
+      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html"
     },
     {
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed...",
-      "date": "2026-07-22",
-      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html"
-    },
-    {
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and...",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could...",
       "date": "2026-07-22",
-      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html"
+      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html"
+    },
+    {
+      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is...",
+      "date": "2026-07-22",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html"
+    },
+    {
+      "title": "The Fastest Path to AI Adoption Runs Through Security",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility...",
+      "date": "2026-07-22",
+      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html"
     },
     {
       "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
@@ -40,14 +48,6 @@
       "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that...",
       "date": "2026-07-22",
       "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html"
-    },
-    {
-      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees....",
-      "date": "2026-07-22",
-      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html"
     }
   ]
 }
