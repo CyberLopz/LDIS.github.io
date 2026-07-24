@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-07-23 13:43 UTC",
+  "lastUpdated": "2026-07-24 02:07 UTC",
   "items": [
+    {
+      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email,...",
+      "date": "2026-07-24",
+      "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html"
+    },
+    {
+      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an...",
+      "date": "2026-07-23",
+      "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html"
+    },
+    {
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM)...",
+      "date": "2026-07-23",
+      "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html"
+    },
+    {
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised...",
+      "date": "2026-07-23",
+      "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html"
+    },
+    {
+      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across...",
+      "date": "2026-07-23",
+      "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html"
+    },
     {
       "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of...",
       "date": "2026-07-23",
       "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html"
-    },
-    {
-      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and...",
-      "date": "2026-07-23",
-      "link": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html"
-    },
-    {
-      "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video. The selfie for sign-in, per the tech giant, is another option on top of...",
-      "date": "2026-07-23",
-      "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html"
-    },
-    {
-      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent...",
-      "date": "2026-07-23",
-      "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html"
-    },
-    {
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that...",
-      "date": "2026-07-23",
-      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html"
-    },
-    {
-      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while...",
-      "date": "2026-07-23",
-      "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html"
     }
   ]
 }
