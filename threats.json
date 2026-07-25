@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-24 13:24 UTC",
+  "lastUpdated": "2026-07-25 02:07 UTC",
   "items": [
+    {
+      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to...",
+      "date": "2026-07-24",
+      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html"
+    },
+    {
+      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate...",
+      "date": "2026-07-24",
+      "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html"
+    },
     {
       "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of...",
       "date": "2026-07-24",
       "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html"
-    },
-    {
-      "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of...",
-      "date": "2026-07-24",
-      "link": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html"
-    },
-    {
-      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them...",
-      "date": "2026-07-24",
-      "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html"
     }
   ]
 }
