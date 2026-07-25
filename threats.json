@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-07-25 02:07 UTC",
+  "lastUpdated": "2026-07-25 13:11 UTC",
   "items": [
+    {
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any...",
+      "date": "2026-07-25",
+      "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html"
+    },
+    {
+      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the...",
+      "date": "2026-07-25",
+      "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html"
+    },
+    {
+      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM...",
+      "date": "2026-07-25",
+      "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html"
+    },
+    {
+      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and...",
+      "date": "2026-07-25",
+      "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html"
+    },
     {
       "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate...",
       "date": "2026-07-24",
       "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html"
-    },
-    {
-      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and...",
-      "date": "2026-07-24",
-      "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html"
-    },
-    {
-      "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same...",
-      "date": "2026-07-24",
-      "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html"
-    },
-    {
-      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege...",
-      "date": "2026-07-24",
-      "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html"
-    },
-    {
-      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of...",
-      "date": "2026-07-24",
-      "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html"
     }
   ]
 }
