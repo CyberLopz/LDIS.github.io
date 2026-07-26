@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-25 13:11 UTC",
+  "lastUpdated": "2026-07-26 02:11 UTC",
   "items": [
+    {
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one...",
+      "date": "2026-07-26",
+      "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html"
+    },
+    {
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON...",
+      "date": "2026-07-25",
+      "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html"
+    },
     {
       "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and...",
       "date": "2026-07-25",
       "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html"
-    },
-    {
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to...",
-      "date": "2026-07-24",
-      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html"
-    },
-    {
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate...",
-      "date": "2026-07-24",
-      "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html"
     }
   ]
 }
