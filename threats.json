@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-07-27 02:25 UTC",
+  "lastUpdated": "2026-07-27 14:19 UTC",
   "items": [
+    {
+      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform....",
+      "date": "2026-07-27",
+      "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html"
+    },
+    {
+      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools....",
+      "date": "2026-07-27",
+      "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html"
+    },
+    {
+      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a...",
+      "date": "2026-07-27",
+      "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html"
+    },
+    {
+      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have...",
+      "date": "2026-07-27",
+      "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html"
+    },
+    {
+      "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown...",
+      "date": "2026-07-27",
+      "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html"
+    },
     {
       "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one...",
       "date": "2026-07-26",
       "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html"
-    },
-    {
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON...",
-      "date": "2026-07-25",
-      "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html"
-    },
-    {
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any...",
-      "date": "2026-07-25",
-      "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html"
-    },
-    {
-      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the...",
-      "date": "2026-07-25",
-      "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html"
-    },
-    {
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM...",
-      "date": "2026-07-25",
-      "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html"
-    },
-    {
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and...",
-      "date": "2026-07-25",
-      "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html"
     }
   ]
 }
