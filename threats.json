@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-29 02:03 UTC",
+  "lastUpdated": "2026-07-29 13:55 UTC",
   "items": [
     {
-      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack...",
+      "severity": "High",
+      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along....",
       "date": "2026-07-29",
-      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html"
+      "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html"
     },
     {
-      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other...",
-      "date": "2026-07-28",
-      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html"
+      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug...",
+      "date": "2026-07-29",
+      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html"
     },
     {
-      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management...",
-      "date": "2026-07-28",
-      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html"
+      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive...",
+      "date": "2026-07-29",
+      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html"
     },
     {
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to...",
+      "date": "2026-07-29",
+      "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html"
+    },
+    {
+      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is...",
-      "date": "2026-07-28",
-      "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html"
+      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain...",
+      "date": "2026-07-29",
+      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html"
     },
     {
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue,...",
-      "date": "2026-07-28",
-      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html"
-    },
-    {
-      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of...",
-      "date": "2026-07-28",
-      "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html"
+      "severity": "High",
+      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked...",
+      "date": "2026-07-29",
+      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html"
     }
   ]
 }
