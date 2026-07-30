@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-07-29 13:55 UTC",
+  "lastUpdated": "2026-07-30 01:53 UTC",
   "items": [
+    {
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image...",
+      "date": "2026-07-29",
+      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html"
+    },
+    {
+      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in...",
+      "date": "2026-07-29",
+      "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html"
+    },
+    {
+      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in...",
+      "date": "2026-07-29",
+      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html"
+    },
+    {
+      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham,...",
+      "date": "2026-07-29",
+      "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html"
+    },
+    {
+      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from...",
+      "date": "2026-07-29",
+      "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html"
+    },
     {
       "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along....",
       "date": "2026-07-29",
       "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html"
-    },
-    {
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug...",
-      "date": "2026-07-29",
-      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html"
-    },
-    {
-      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive...",
-      "date": "2026-07-29",
-      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html"
-    },
-    {
-      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to...",
-      "date": "2026-07-29",
-      "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html"
-    },
-    {
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain...",
-      "date": "2026-07-29",
-      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html"
-    },
-    {
-      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked...",
-      "date": "2026-07-29",
-      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html"
     }
   ]
 }
