@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-30 13:45 UTC",
+  "lastUpdated": "2026-07-31 02:11 UTC",
   "items": [
+    {
+      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen...",
+      "date": "2026-07-30",
+      "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html"
+    },
+    {
+      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly...",
+      "date": "2026-07-30",
+      "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html"
+    },
+    {
+      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer...",
+      "date": "2026-07-30",
+      "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html"
+    },
     {
       "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally...",
       "date": "2026-07-30",
       "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html"
-    },
-    {
-      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the...",
-      "date": "2026-07-30",
-      "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html"
-    },
-    {
-      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook...",
-      "date": "2026-07-30",
-      "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html"
-    },
-    {
-      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from...",
-      "date": "2026-07-30",
-      "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html"
     }
   ]
 }
