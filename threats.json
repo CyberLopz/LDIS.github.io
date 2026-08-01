@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-07-31 13:50 UTC",
+  "lastUpdated": "2026-08-01 02:13 UTC",
   "items": [
     {
-      "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
+      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under...",
-      "date": "2026-07-31",
-      "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html"
+      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan,...",
+      "date": "2026-08-01",
+      "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html"
     },
     {
-      "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram...",
-      "date": "2026-07-31",
-      "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html"
-    },
-    {
-      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had...",
+      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to...",
       "date": "2026-07-31",
-      "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html"
+      "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html"
     },
     {
-      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen...",
-      "date": "2026-07-30",
-      "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html"
+      "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May...",
+      "date": "2026-07-31",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/"
     },
     {
-      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly...",
-      "date": "2026-07-30",
-      "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html"
-    },
-    {
-      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer...",
-      "date": "2026-07-30",
-      "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html"
+      "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by...",
+      "date": "2026-07-31",
+      "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html"
+    },
+    {
+      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23...",
+      "date": "2026-07-31",
+      "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html"
+    },
+    {
+      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS)...",
+      "date": "2026-07-31",
+      "link": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html"
     }
   ]
 }
