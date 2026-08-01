@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-01 02:13 UTC",
+  "lastUpdated": "2026-08-01 13:05 UTC",
   "items": [
+    {
+      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected...",
+      "date": "2026-08-01",
+      "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html"
+    },
+    {
+      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in...",
+      "date": "2026-08-01",
+      "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html"
+    },
+    {
+      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes,...",
+      "date": "2026-08-01",
+      "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html"
+    },
     {
       "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May...",
       "date": "2026-07-31",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/"
-    },
-    {
-      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by...",
-      "date": "2026-07-31",
-      "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html"
-    },
-    {
-      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23...",
-      "date": "2026-07-31",
-      "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html"
-    },
-    {
-      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS)...",
-      "date": "2026-07-31",
-      "link": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html"
     }
   ]
 }
