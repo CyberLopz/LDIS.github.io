@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-01 13:05 UTC",
+  "lastUpdated": "2026-08-02 02:10 UTC",
   "items": [
+    {
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a...",
+      "date": "2026-08-01",
+      "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html"
+    },
     {
       "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to...",
       "date": "2026-07-31",
       "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html"
-    },
-    {
-      "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May...",
-      "date": "2026-07-31",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/"
     }
   ]
 }
