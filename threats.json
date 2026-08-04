@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-08-04 01:58 UTC",
+  "lastUpdated": "2026-08-04 13:56 UTC",
   "items": [
+    {
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated...",
+      "date": "2026-08-04",
+      "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html"
+    },
+    {
+      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into...",
+      "date": "2026-08-04",
+      "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html"
+    },
+    {
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's...",
+      "date": "2026-08-04",
+      "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html"
+    },
+    {
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver...",
+      "date": "2026-08-04",
+      "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html"
+    },
+    {
+      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV)...",
+      "date": "2026-08-04",
+      "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html"
+    },
     {
       "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a...",
       "date": "2026-08-04",
       "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html"
-    },
-    {
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's...",
-      "date": "2026-08-03",
-      "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html"
-    },
-    {
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN...",
-      "date": "2026-08-03",
-      "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and...",
-      "date": "2026-08-03",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html"
-    },
-    {
-      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write...",
-      "date": "2026-08-03",
-      "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html"
-    },
-    {
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack...",
-      "date": "2026-08-03",
-      "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html"
     }
   ]
 }
