@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-03 14:26 UTC",
+  "lastUpdated": "2026-08-04 01:58 UTC",
   "items": [
+    {
+      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a...",
+      "date": "2026-08-04",
+      "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html"
+    },
+    {
+      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's...",
+      "date": "2026-08-03",
+      "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html"
+    },
+    {
+      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN...",
+      "date": "2026-08-03",
+      "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html"
+    },
     {
       "title": "\u26a1 Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
       "source": "The Hacker News",
@@ -21,33 +45,9 @@
       "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface...",
+      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack...",
       "date": "2026-08-03",
       "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html"
-    },
-    {
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names,...",
-      "date": "2026-08-03",
-      "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html"
-    },
-    {
-      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The...",
-      "date": "2026-08-03",
-      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html"
-    },
-    {
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was...",
-      "date": "2026-08-03",
-      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html"
     }
   ]
 }
