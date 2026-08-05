@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-05 01:57 UTC",
+  "lastUpdated": "2026-08-05 13:53 UTC",
   "items": [
     {
-      "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the...",
-      "date": "2026-08-04",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/"
-    },
-    {
-      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat...",
-      "date": "2026-08-04",
-      "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html"
+      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit...",
+      "date": "2026-08-05",
+      "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html"
     },
     {
-      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4,...",
-      "date": "2026-08-04",
-      "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html"
+      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on...",
+      "date": "2026-08-05",
+      "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html"
     },
     {
-      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write...",
+      "date": "2026-08-05",
+      "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html"
+    },
+    {
+      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and...",
+      "date": "2026-08-05",
+      "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html"
+    },
+    {
+      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document...",
-      "date": "2026-08-04",
-      "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html"
+      "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development...",
+      "date": "2026-08-05",
+      "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html"
     },
     {
-      "title": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Microsoft expands its Zero Trust for AI strategy to enhance security for AI and DevSecOps environments with new tools and guidance. The post Advance Zero Trust for AI: New tools and...",
-      "date": "2026-08-04",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/"
-    },
-    {
-      "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
-      "source": "Microsoft Security Blog",
-      "severity": "Critical",
-      "summary": "Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread. The post 128 Seconds to...",
-      "date": "2026-08-04",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/"
+      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security...",
+      "date": "2026-08-05",
+      "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html"
     }
   ]
 }
