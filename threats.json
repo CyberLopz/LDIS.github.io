@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-05 13:53 UTC",
+  "lastUpdated": "2026-08-06 02:01 UTC",
   "items": [
     {
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit...",
-      "date": "2026-08-05",
-      "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html"
+      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence...",
+      "date": "2026-08-06",
+      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html"
     },
     {
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on...",
-      "date": "2026-08-05",
-      "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html"
+      "severity": "Medium",
+      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance,...",
+      "date": "2026-08-06",
+      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
     },
     {
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and...",
+      "date": "2026-08-05",
+      "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html"
+    },
+    {
+      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial...",
+      "date": "2026-08-05",
+      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html"
+    },
+    {
+      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write...",
+      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An...",
       "date": "2026-08-05",
-      "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html"
+      "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
     },
     {
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and...",
-      "date": "2026-08-05",
-      "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html"
-    },
-    {
-      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development...",
+      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up...",
       "date": "2026-08-05",
-      "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html"
-    },
-    {
-      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security...",
-      "date": "2026-08-05",
-      "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html"
+      "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html"
     }
   ]
 }
