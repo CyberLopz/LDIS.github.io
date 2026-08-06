@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-06 02:01 UTC",
+  "lastUpdated": "2026-08-06 13:51 UTC",
   "items": [
     {
-      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence...",
+      "severity": "Medium",
+      "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile...",
       "date": "2026-08-06",
-      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html"
+      "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html"
     },
     {
-      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance,...",
+      "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12...",
       "date": "2026-08-06",
-      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
+      "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html"
     },
     {
-      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and...",
-      "date": "2026-08-05",
-      "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html"
+      "summary": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address. Introduced with iOS 15, iCloud Private Relay...",
+      "date": "2026-08-06",
+      "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html"
     },
     {
-      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial...",
-      "date": "2026-08-05",
-      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html"
-    },
-    {
-      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An...",
-      "date": "2026-08-05",
-      "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
+      "summary": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into...",
+      "date": "2026-08-06",
+      "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html"
     },
     {
-      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an...",
+      "date": "2026-08-06",
+      "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html"
+    },
+    {
+      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up...",
-      "date": "2026-08-05",
-      "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html"
+      "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had...",
+      "date": "2026-08-06",
+      "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html"
     }
   ]
 }
