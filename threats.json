@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-07 02:22 UTC",
+  "lastUpdated": "2026-08-07 12:49 UTC",
   "items": [
     {
-      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+      "title": "Growing Up The Hard Way",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It...",
+      "date": "2026-08-07",
+      "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html"
+    },
+    {
+      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine...",
+      "date": "2026-08-07",
+      "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html"
+    },
+    {
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof...",
+      "date": "2026-08-07",
+      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html"
+    },
+    {
+      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host....",
-      "date": "2026-08-06",
-      "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html"
+      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of...",
+      "date": "2026-08-07",
+      "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html"
     },
     {
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The...",
-      "date": "2026-08-06",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html"
+      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after...",
+      "date": "2026-08-07",
+      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html"
     },
     {
-      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor...",
-      "date": "2026-08-06",
-      "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html"
-    },
-    {
-      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on...",
-      "date": "2026-08-06",
-      "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html"
-    },
-    {
-      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile...",
-      "date": "2026-08-06",
-      "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html"
-    },
-    {
-      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12...",
-      "date": "2026-08-06",
-      "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html"
+      "severity": "High",
+      "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate...",
+      "date": "2026-08-07",
+      "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html"
     }
   ]
 }
