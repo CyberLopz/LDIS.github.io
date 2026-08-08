@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-08-08 01:09 UTC",
+  "lastUpdated": "2026-08-08 12:35 UTC",
   "items": [
+    {
+      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security...",
+      "date": "2026-08-08",
+      "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html"
+    },
+    {
+      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail,...",
+      "date": "2026-08-08",
+      "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html"
+    },
+    {
+      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The...",
+      "date": "2026-08-08",
+      "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html"
+    },
+    {
+      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "N-able has released a fresh round of hotfixes for N\u2011central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and...",
+      "date": "2026-08-08",
+      "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html"
+    },
+    {
+      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited...",
+      "date": "2026-08-08",
+      "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html"
+    },
     {
       "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux...",
       "date": "2026-08-08",
       "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html"
-    },
-    {
-      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached...",
-      "date": "2026-08-07",
-      "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html"
-    },
-    {
-      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to...",
-      "date": "2026-08-07",
-      "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html"
-    },
-    {
-      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated...",
-      "date": "2026-08-07",
-      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html"
-    },
-    {
-      "title": "Growing Up The Hard Way",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It...",
-      "date": "2026-08-07",
-      "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html"
-    },
-    {
-      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine...",
-      "date": "2026-08-07",
-      "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html"
     }
   ]
 }
