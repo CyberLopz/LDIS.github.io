@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-08-10 12:54 UTC",
+  "lastUpdated": "2026-08-11 01:14 UTC",
   "items": [
-    {
-      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable...",
-      "date": "2026-08-10",
-      "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html"
-    },
     {
       "title": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development",
       "source": "The Hacker News",
@@ -18,36 +10,44 @@
       "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html"
     },
     {
+      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of...",
+      "date": "2026-08-10",
+      "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much...",
+      "date": "2026-08-10",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html"
+    },
+    {
+      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline...",
+      "date": "2026-08-10",
+      "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html"
+    },
+    {
+      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable...",
+      "date": "2026-08-10",
+      "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html"
+    },
+    {
       "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
       "source": "The Hacker News",
       "severity": "High",
       "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation,...",
       "date": "2026-08-10",
       "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html"
-    },
-    {
-      "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet...",
-      "date": "2026-08-10",
-      "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html"
-    },
-    {
-      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made...",
-      "date": "2026-08-10",
-      "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html"
-    },
-    {
-      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security...",
-      "date": "2026-08-08",
-      "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html"
     }
   ]
 }
