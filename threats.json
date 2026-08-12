@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-11 12:50 UTC",
+  "lastUpdated": "2026-08-12 01:22 UTC",
   "items": [
     {
-      "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car...",
-      "date": "2026-08-11",
-      "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html"
-    },
-    {
-      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private...",
-      "date": "2026-08-11",
-      "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html"
-    },
-    {
-      "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company...",
-      "date": "2026-08-11",
-      "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html"
-    },
-    {
-      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on...",
-      "date": "2026-08-11",
-      "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html"
-    },
-    {
-      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously...",
-      "date": "2026-08-11",
-      "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html"
-    },
-    {
-      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world....",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles...",
+      "date": "2026-08-12",
+      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html"
+    },
+    {
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its...",
+      "date": "2026-08-12",
+      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html"
+    },
+    {
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the...",
+      "date": "2026-08-12",
+      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html"
+    },
+    {
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT...",
+      "date": "2026-08-12",
+      "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html"
+    },
+    {
+      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was...",
       "date": "2026-08-11",
-      "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html"
+      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html"
+    },
+    {
+      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational...",
+      "date": "2026-08-11",
+      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html"
     }
   ]
 }
