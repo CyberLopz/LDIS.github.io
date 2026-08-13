@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-08-12 12:55 UTC",
+  "lastUpdated": "2026-08-13 01:23 UTC",
   "items": [
+    {
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a...",
+      "date": "2026-08-12",
+      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html"
+    },
+    {
+      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and...",
+      "date": "2026-08-12",
+      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs,...",
+      "date": "2026-08-12",
+      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html"
+    },
+    {
+      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured...",
+      "date": "2026-08-12",
+      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html"
+    },
     {
       "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is...",
       "date": "2026-08-12",
       "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"
-    },
-    {
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database...",
-      "date": "2026-08-12",
-      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html"
-    },
-    {
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability,...",
-      "date": "2026-08-12",
-      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html"
-    },
-    {
-      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day...",
-      "date": "2026-08-12",
-      "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
-    },
-    {
-      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the...",
-      "date": "2026-08-12",
-      "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html"
     }
   ]
 }
