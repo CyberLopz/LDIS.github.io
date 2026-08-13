@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-13 01:23 UTC",
+  "lastUpdated": "2026-08-13 12:56 UTC",
   "items": [
+    {
+      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is...",
+      "date": "2026-08-13",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
+    },
     {
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in...",
       "date": "2026-08-12",
       "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
-    },
-    {
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is...",
-      "date": "2026-08-12",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"
     }
   ]
 }
