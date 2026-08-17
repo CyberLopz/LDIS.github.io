@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-17 00:54 UTC",
+  "lastUpdated": "2026-08-17 12:31 UTC",
   "items": [
     {
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is...",
+      "date": "2026-08-17",
+      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html"
+    },
+    {
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is...",
-      "date": "2026-08-13",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE...",
+      "date": "2026-08-17",
+      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html"
     },
     {
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is...",
+      "date": "2026-08-17",
+      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html"
+    },
+    {
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a...",
-      "date": "2026-08-12",
-      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html"
+      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The...",
+      "date": "2026-08-17",
+      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html"
     },
     {
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and...",
-      "date": "2026-08-12",
-      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html"
+      "severity": "High",
+      "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS...",
+      "date": "2026-08-15",
+      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html"
     },
     {
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs,...",
-      "date": "2026-08-12",
-      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html"
-    },
-    {
-      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured...",
-      "date": "2026-08-12",
-      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html"
-    },
-    {
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in...",
-      "date": "2026-08-12",
-      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
+      "severity": "High",
+      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has...",
+      "date": "2026-08-15",
+      "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html"
     }
   ]
 }
