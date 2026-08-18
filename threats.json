@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-08-18 00:53 UTC",
+  "lastUpdated": "2026-08-18 12:32 UTC",
   "items": [
+    {
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on...",
+      "date": "2026-08-18",
+      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html"
+    },
+    {
+      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research...",
+      "date": "2026-08-18",
+      "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html"
+    },
+    {
+      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately...",
+      "date": "2026-08-18",
+      "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html"
+    },
+    {
+      "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of...",
+      "date": "2026-08-18",
+      "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html"
+    },
     {
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said...",
       "date": "2026-08-18",
       "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html"
-    },
-    {
-      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code...",
-      "date": "2026-08-17",
-      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html"
-    },
-    {
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting...",
-      "date": "2026-08-17",
-      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and...",
-      "date": "2026-08-17",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html"
-    },
-    {
-      "title": "How MCP Servers Can Expose Enterprise Secrets",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is...",
-      "date": "2026-08-17",
-      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html"
     }
   ]
 }
