@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-19 12:34 UTC",
+  "lastUpdated": "2026-08-20 00:53 UTC",
   "items": [
     {
-      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected...",
-      "date": "2026-08-19",
-      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html"
+      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production...",
+      "date": "2026-08-20",
+      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html"
     },
     {
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are...",
+      "severity": "Medium",
+      "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and...",
       "date": "2026-08-19",
-      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html"
+      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html"
     },
     {
-      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across...",
+      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access...",
       "date": "2026-08-19",
-      "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html"
+      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html"
     },
     {
-      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise...",
+      "title": "Microsoft named a Leader in the Frost Radar\u2122: Cloud Workload Protection Platforms, 2026",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post...",
       "date": "2026-08-19",
-      "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html"
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/"
     },
     {
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps...",
-      "date": "2026-08-18",
-      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html"
+      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential...",
+      "date": "2026-08-19",
+      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html"
     },
     {
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational...",
-      "date": "2026-08-18",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html"
+      "severity": "High",
+      "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an...",
+      "date": "2026-08-19",
+      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html"
     }
   ]
 }
