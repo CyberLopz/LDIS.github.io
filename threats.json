@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-08-20 00:53 UTC",
+  "lastUpdated": "2026-08-20 12:35 UTC",
   "items": [
+    {
+      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an...",
+      "date": "2026-08-20",
+      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html"
+    },
+    {
+      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands...",
+      "date": "2026-08-20",
+      "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html"
+    },
+    {
+      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the...",
+      "date": "2026-08-20",
+      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html"
+    },
+    {
+      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The...",
+      "date": "2026-08-20",
+      "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html"
+    },
     {
       "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and...",
       "date": "2026-08-19",
       "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html"
-    },
-    {
-      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access...",
-      "date": "2026-08-19",
-      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html"
-    },
-    {
-      "title": "Microsoft named a Leader in the Frost Radar\u2122: Cloud Workload Protection Platforms, 2026",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post...",
-      "date": "2026-08-19",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/"
-    },
-    {
-      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential...",
-      "date": "2026-08-19",
-      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html"
-    },
-    {
-      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an...",
-      "date": "2026-08-19",
-      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html"
     }
   ]
 }
