@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-20 12:35 UTC",
+  "lastUpdated": "2026-08-21 00:57 UTC",
   "items": [
     {
-      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an...",
-      "date": "2026-08-20",
-      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html"
+      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted...",
+      "date": "2026-08-21",
+      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html"
     },
     {
-      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands...",
-      "date": "2026-08-20",
-      "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html"
+      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace...",
+      "date": "2026-08-21",
+      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html"
     },
     {
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the...",
+      "severity": "High",
+      "summary": "A lot of this week\u2019s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A...",
       "date": "2026-08-20",
-      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html"
+      "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html"
     },
     {
-      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The...",
+      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts....",
       "date": "2026-08-20",
-      "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html"
+      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html"
     },
     {
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production...",
+      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing...",
       "date": "2026-08-20",
-      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html"
+      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html"
     },
     {
-      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and...",
-      "date": "2026-08-19",
-      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html"
+      "severity": "Critical",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow...",
+      "date": "2026-08-20",
+      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html"
     }
   ]
 }
