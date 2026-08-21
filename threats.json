@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-08-21 00:57 UTC",
+  "lastUpdated": "2026-08-21 12:34 UTC",
   "items": [
+    {
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to...",
+      "date": "2026-08-21",
+      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html"
+    },
+    {
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the...",
+      "date": "2026-08-21",
+      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html"
+    },
+    {
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478...",
+      "date": "2026-08-21",
+      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
+    },
+    {
+      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The...",
+      "date": "2026-08-21",
+      "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html"
+    },
     {
       "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace...",
       "date": "2026-08-21",
       "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html"
-    },
-    {
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A lot of this week\u2019s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A...",
-      "date": "2026-08-20",
-      "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html"
-    },
-    {
-      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts....",
-      "date": "2026-08-20",
-      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html"
-    },
-    {
-      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing...",
-      "date": "2026-08-20",
-      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html"
-    },
-    {
-      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow...",
-      "date": "2026-08-20",
-      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html"
     }
   ]
 }
