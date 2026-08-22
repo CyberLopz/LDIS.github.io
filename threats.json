@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-21 12:34 UTC",
+  "lastUpdated": "2026-08-22 00:53 UTC",
   "items": [
+    {
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial...",
+      "date": "2026-08-22",
+      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html"
+    },
+    {
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry...",
+      "date": "2026-08-21",
+      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html"
+    },
+    {
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which...",
+      "date": "2026-08-21",
+      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html"
+    },
     {
       "title": "Wazuh and AI For Enhanced SOC Workflows",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478...",
       "date": "2026-08-21",
       "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
-    },
-    {
-      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The...",
-      "date": "2026-08-21",
-      "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html"
-    },
-    {
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted...",
-      "date": "2026-08-21",
-      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html"
-    },
-    {
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace...",
-      "date": "2026-08-21",
-      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html"
     }
   ]
 }
