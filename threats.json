@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-22 12:26 UTC",
+  "lastUpdated": "2026-08-23 00:58 UTC",
   "items": [
+    {
+      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws...",
+      "date": "2026-08-22",
+      "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html"
+    },
     {
       "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the...",
       "date": "2026-08-21",
       "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html"
-    },
-    {
-      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478...",
-      "date": "2026-08-21",
-      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
     }
   ]
 }
