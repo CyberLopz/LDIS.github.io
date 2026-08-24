@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-08-24 00:56 UTC",
+  "lastUpdated": "2026-08-24 12:36 UTC",
   "items": [
+    {
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what...",
+      "date": "2026-08-24",
+      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html"
+    },
+    {
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated...",
+      "date": "2026-08-24",
+      "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html"
+    },
+    {
+      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The...",
+      "date": "2026-08-24",
+      "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html"
+    },
+    {
+      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more...",
+      "date": "2026-08-24",
+      "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html"
+    },
+    {
+      "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education,...",
+      "date": "2026-08-24",
+      "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html"
+    },
     {
       "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws...",
       "date": "2026-08-22",
       "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html"
-    },
-    {
-      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial...",
-      "date": "2026-08-22",
-      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html"
-    },
-    {
-      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry...",
-      "date": "2026-08-21",
-      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html"
-    },
-    {
-      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which...",
-      "date": "2026-08-21",
-      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html"
-    },
-    {
-      "title": "Wazuh and AI For Enhanced SOC Workflows",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to...",
-      "date": "2026-08-21",
-      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html"
-    },
-    {
-      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the...",
-      "date": "2026-08-21",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html"
     }
   ]
 }
