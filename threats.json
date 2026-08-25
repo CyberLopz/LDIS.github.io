@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-25 00:56 UTC",
+  "lastUpdated": "2026-08-25 12:35 UTC",
   "items": [
     {
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what...",
-      "date": "2026-08-24",
-      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html"
+      "severity": "High",
+      "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate...",
+      "date": "2026-08-25",
+      "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html"
     },
     {
-      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs...",
-      "date": "2026-08-24",
-      "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html"
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA...",
+      "date": "2026-08-25",
+      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html"
     },
     {
-      "title": "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That\u2019s roughly the mood this week. Trusted tools turn hostile, old weak...",
-      "date": "2026-08-24",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html"
+      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs)...",
+      "date": "2026-08-25",
+      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html"
     },
     {
-      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management...",
+      "date": "2026-08-25",
+      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html"
+    },
+    {
+      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to...",
+      "date": "2026-08-25",
+      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html"
+    },
+    {
+      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware...",
-      "date": "2026-08-24",
-      "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html"
-    },
-    {
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated...",
-      "date": "2026-08-24",
-      "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html"
-    },
-    {
-      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The...",
-      "date": "2026-08-24",
-      "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html"
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known...",
+      "date": "2026-08-25",
+      "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html"
     }
   ]
 }
