@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-26 00:56 UTC",
+  "lastUpdated": "2026-08-26 12:39 UTC",
   "items": [
     {
-      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical...",
+      "date": "2026-08-26",
+      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html"
+    },
+    {
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness,...",
+      "date": "2026-08-26",
+      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html"
+    },
+    {
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial...",
+      "date": "2026-08-26",
+      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html"
+    },
+    {
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought...",
+      "date": "2026-08-26",
+      "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html"
+    },
+    {
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet...",
+      "date": "2026-08-26",
+      "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html"
+    },
+    {
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the...",
-      "date": "2026-08-25",
-      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html"
-    },
-    {
-      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and...",
-      "date": "2026-08-25",
-      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html"
-    },
-    {
-      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign...",
-      "date": "2026-08-25",
-      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html"
-    },
-    {
-      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially...",
-      "date": "2026-08-25",
-      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html"
-    },
-    {
-      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate...",
-      "date": "2026-08-25",
-      "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html"
-    },
-    {
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA...",
-      "date": "2026-08-25",
-      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html"
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The...",
+      "date": "2026-08-26",
+      "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html"
     }
   ]
 }
