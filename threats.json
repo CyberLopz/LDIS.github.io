@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-08-25 12:35 UTC",
+  "lastUpdated": "2026-08-26 00:56 UTC",
   "items": [
+    {
+      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the...",
+      "date": "2026-08-25",
+      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html"
+    },
+    {
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and...",
+      "date": "2026-08-25",
+      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html"
+    },
+    {
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign...",
+      "date": "2026-08-25",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html"
+    },
+    {
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially...",
+      "date": "2026-08-25",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html"
+    },
     {
       "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA...",
       "date": "2026-08-25",
       "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html"
-    },
-    {
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs)...",
-      "date": "2026-08-25",
-      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html"
-    },
-    {
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management...",
-      "date": "2026-08-25",
-      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html"
-    },
-    {
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to...",
-      "date": "2026-08-25",
-      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html"
-    },
-    {
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known...",
-      "date": "2026-08-25",
-      "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html"
     }
   ]
 }
