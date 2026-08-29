@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-28 21:39 UTC",
+  "lastUpdated": "2026-08-29 05:13 UTC",
   "items": [
+    {
+      "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance. The...",
+      "date": "2026-08-29",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/"
+    },
+    {
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not...",
+      "date": "2026-08-29",
+      "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html"
+    },
     {
       "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog...",
       "date": "2026-08-28",
       "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html"
-    },
-    {
-      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing...",
-      "date": "2026-08-28",
-      "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html"
-    },
-    {
-      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that...",
-      "date": "2026-08-28",
-      "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html"
     }
   ]
 }
