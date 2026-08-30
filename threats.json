@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-29 16:03 UTC",
+  "lastUpdated": "2026-08-30 03:05 UTC",
   "items": [
+    {
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to...",
+      "date": "2026-08-29",
+      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html"
+    },
     {
       "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
       "source": "Microsoft Security Blog",
@@ -40,14 +48,6 @@
       "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home...",
       "date": "2026-08-28",
       "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html"
-    },
-    {
-      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog...",
-      "date": "2026-08-28",
-      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html"
     }
   ]
 }
