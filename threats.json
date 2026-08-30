@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-30 03:05 UTC",
+  "lastUpdated": "2026-08-30 15:52 UTC",
   "items": [
+    {
+      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While...",
+      "date": "2026-08-30",
+      "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html"
+    },
     {
       "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with...",
       "date": "2026-08-28",
       "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html"
-    },
-    {
-      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home...",
-      "date": "2026-08-28",
-      "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html"
     }
   ]
 }
