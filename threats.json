@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-31 02:59 UTC",
+  "lastUpdated": "2026-08-31 18:36 UTC",
   "items": [
     {
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While...",
-      "date": "2026-08-30",
-      "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html"
-    },
-    {
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to...",
-      "date": "2026-08-29",
-      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html"
-    },
-    {
-      "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance. The...",
-      "date": "2026-08-29",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/"
-    },
-    {
-      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not...",
-      "date": "2026-08-29",
-      "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html"
+      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector,...",
+      "date": "2026-08-31",
+      "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html"
     },
     {
-      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "title": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The...",
-      "date": "2026-08-29",
-      "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html"
+      "severity": "Medium",
+      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then...",
+      "date": "2026-08-31",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html"
     },
     {
-      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process...",
+      "date": "2026-08-31",
+      "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html"
+    },
+    {
+      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with...",
-      "date": "2026-08-28",
-      "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html"
+      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks,...",
+      "date": "2026-08-31",
+      "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html"
+    },
+    {
+      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer\u2019s machine. Anthropic\u2019s new Compliance API endpoints give...",
+      "date": "2026-08-31",
+      "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html"
+    },
+    {
+      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller...",
+      "date": "2026-08-31",
+      "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html"
     }
   ]
 }
