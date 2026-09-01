@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-01 03:07 UTC",
+  "lastUpdated": "2026-09-01 15:56 UTC",
   "items": [
     {
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector,...",
-      "date": "2026-08-31",
-      "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html"
+      "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming...",
+      "date": "2026-09-01",
+      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html"
     },
     {
-      "title": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then...",
-      "date": "2026-08-31",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html"
+      "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its...",
+      "date": "2026-09-01",
+      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html"
     },
     {
-      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process...",
-      "date": "2026-08-31",
-      "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html"
+      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on...",
+      "date": "2026-09-01",
+      "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html"
     },
     {
-      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry...",
+      "date": "2026-09-01",
+      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html"
+    },
+    {
+      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an...",
+      "date": "2026-09-01",
+      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html"
+    },
+    {
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks,...",
-      "date": "2026-08-31",
-      "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html"
-    },
-    {
-      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer\u2019s machine. Anthropic\u2019s new Compliance API endpoints give...",
-      "date": "2026-08-31",
-      "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html"
-    },
-    {
-      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller...",
-      "date": "2026-08-31",
-      "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html"
+      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below -...",
+      "date": "2026-09-01",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html"
     }
   ]
 }
