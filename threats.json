@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-02 02:26 UTC",
+  "lastUpdated": "2026-09-02 15:48 UTC",
   "items": [
     {
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the...",
+      "date": "2026-09-02",
+      "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html"
+    },
+    {
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and...",
+      "date": "2026-09-02",
+      "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html"
+    },
+    {
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor...",
+      "date": "2026-09-02",
+      "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html"
+    },
+    {
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign...",
+      "date": "2026-09-02",
+      "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html"
+    },
+    {
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move...",
+      "date": "2026-09-02",
+      "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html"
+    },
+    {
+      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question...",
-      "date": "2026-09-01",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html"
-    },
-    {
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024....",
-      "date": "2026-09-01",
-      "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html"
-    },
-    {
-      "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares...",
-      "date": "2026-09-01",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/"
-    },
-    {
-      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming...",
-      "date": "2026-09-01",
-      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html"
-    },
-    {
-      "title": "Cybersecurity IR Workshop: The workshop you shouldn\u2019t miss",
-      "source": "Microsoft Security Blog",
-      "severity": "Info",
-      "summary": "Cyber resilience starts before a crisis. Gain practical insights from DART to strengthen readiness and response. The post Cybersecurity IR Workshop: The workshop you shouldn\u2019t miss...",
-      "date": "2026-09-01",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/"
-    },
-    {
-      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its...",
-      "date": "2026-09-01",
-      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html"
+      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks....",
+      "date": "2026-09-02",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html"
     }
   ]
 }
