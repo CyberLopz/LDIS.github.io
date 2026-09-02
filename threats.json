@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-01 15:56 UTC",
+  "lastUpdated": "2026-09-02 02:26 UTC",
   "items": [
+    {
+      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question...",
+      "date": "2026-09-01",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html"
+    },
+    {
+      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024....",
+      "date": "2026-09-01",
+      "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html"
+    },
+    {
+      "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares...",
+      "date": "2026-09-01",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/"
+    },
     {
       "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
       "source": "The Hacker News",
@@ -10,44 +34,20 @@
       "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html"
     },
     {
+      "title": "Cybersecurity IR Workshop: The workshop you shouldn\u2019t miss",
+      "source": "Microsoft Security Blog",
+      "severity": "Info",
+      "summary": "Cyber resilience starts before a crisis. Gain practical insights from DART to strengthen readiness and response. The post Cybersecurity IR Workshop: The workshop you shouldn\u2019t miss...",
+      "date": "2026-09-01",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/"
+    },
+    {
       "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
       "source": "The Hacker News",
       "severity": "Medium",
       "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its...",
       "date": "2026-09-01",
       "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html"
-    },
-    {
-      "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on...",
-      "date": "2026-09-01",
-      "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html"
-    },
-    {
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry...",
-      "date": "2026-09-01",
-      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html"
-    },
-    {
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an...",
-      "date": "2026-09-01",
-      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html"
-    },
-    {
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below -...",
-      "date": "2026-09-01",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html"
     }
   ]
 }
