@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-09-04 02:29 UTC",
+  "lastUpdated": "2026-09-04 15:36 UTC",
   "items": [
+    {
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic...",
+      "date": "2026-09-04",
+      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html"
+    },
+    {
+      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are -...",
+      "date": "2026-09-04",
+      "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html"
+    },
+    {
+      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server...",
+      "date": "2026-09-04",
+      "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html"
+    },
+    {
+      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as...",
+      "date": "2026-09-04",
+      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html"
+    },
+    {
+      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "OpenAI on Thursday officially unveiled GPT\u20116 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence...",
+      "date": "2026-09-04",
+      "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html"
+    },
     {
       "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click \u201cAllow.\u201d Why break in when someone might open the door? That idea...",
       "date": "2026-09-03",
       "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html"
-    },
-    {
-      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as...",
-      "date": "2026-09-03",
-      "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html"
-    },
-    {
-      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to...",
-      "date": "2026-09-03",
-      "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html"
-    },
-    {
-      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March...",
-      "date": "2026-09-03",
-      "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html"
-    },
-    {
-      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign...",
-      "date": "2026-09-03",
-      "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html"
-    },
-    {
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec...",
-      "date": "2026-09-03",
-      "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html"
     }
   ]
 }
