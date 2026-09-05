@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-05 02:30 UTC",
+  "lastUpdated": "2026-09-05 14:24 UTC",
   "items": [
+    {
+      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May...",
+      "date": "2026-09-05",
+      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html"
+    },
+    {
+      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary...",
+      "date": "2026-09-05",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html"
+    },
     {
       "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and...",
       "date": "2026-09-04",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/"
-    },
-    {
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are -...",
-      "date": "2026-09-04",
-      "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html"
-    },
-    {
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server...",
-      "date": "2026-09-04",
-      "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html"
     }
   ]
 }
