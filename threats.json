@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-04 15:36 UTC",
+  "lastUpdated": "2026-09-05 02:30 UTC",
   "items": [
+    {
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions...",
+      "date": "2026-09-04",
+      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html"
+    },
+    {
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database...",
+      "date": "2026-09-04",
+      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html"
+    },
     {
       "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
       "source": "The Hacker News",
@@ -8,6 +24,14 @@
       "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic...",
       "date": "2026-09-04",
       "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html"
+    },
+    {
+      "title": "How to secure edge AI in customer-owned environments",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and...",
+      "date": "2026-09-04",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/"
     },
     {
       "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
@@ -24,30 +48,6 @@
       "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server...",
       "date": "2026-09-04",
       "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html"
-    },
-    {
-      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as...",
-      "date": "2026-09-04",
-      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html"
-    },
-    {
-      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "OpenAI on Thursday officially unveiled GPT\u20116 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence...",
-      "date": "2026-09-04",
-      "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html"
-    },
-    {
-      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click \u201cAllow.\u201d Why break in when someone might open the door? That idea...",
-      "date": "2026-09-03",
-      "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html"
     }
   ]
 }
