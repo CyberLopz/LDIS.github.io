@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-06 02:27 UTC",
+  "lastUpdated": "2026-09-06 14:46 UTC",
   "items": [
+    {
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without...",
+      "date": "2026-09-06",
+      "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html"
+    },
+    {
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the...",
+      "date": "2026-09-06",
+      "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html"
+    },
     {
       "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed...",
       "date": "2026-09-05",
       "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html"
-    },
-    {
-      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May...",
-      "date": "2026-09-05",
-      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html"
-    },
-    {
-      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary...",
-      "date": "2026-09-05",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html"
     }
   ]
 }
