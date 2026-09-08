@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-08 02:36 UTC",
+  "lastUpdated": "2026-09-08 15:50 UTC",
   "items": [
     {
-      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser....",
-      "date": "2026-09-07",
-      "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html"
-    },
-    {
-      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through...",
-      "date": "2026-09-07",
-      "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A...",
-      "date": "2026-09-07",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html"
+      "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back....",
+      "date": "2026-09-08",
+      "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html"
     },
     {
-      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data...",
-      "date": "2026-09-07",
-      "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html"
+      "summary": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the...",
+      "date": "2026-09-08",
+      "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html"
     },
     {
-      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly...",
-      "date": "2026-09-07",
-      "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html"
-    },
-    {
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
+      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution \u2014 but only against applications in a specific...",
-      "date": "2026-09-07",
-      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html"
+      "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent...",
+      "date": "2026-09-08",
+      "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html"
+    },
+    {
+      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones. The person being...",
+      "date": "2026-09-08",
+      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html"
+    },
+    {
+      "title": "What It Took to Reach 1 Billion Build Manifests",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image...",
+      "date": "2026-09-08",
+      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html"
+    },
+    {
+      "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says. FreeIPA is...",
+      "date": "2026-09-08",
+      "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html"
     }
   ]
 }
