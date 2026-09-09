@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-09 02:37 UTC",
+  "lastUpdated": "2026-09-09 15:45 UTC",
   "items": [
     {
-      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cybersecurity company...",
-      "date": "2026-09-08",
-      "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html"
-    },
-    {
-      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back....",
-      "date": "2026-09-08",
-      "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html"
-    },
-    {
-      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the...",
-      "date": "2026-09-08",
-      "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html"
-    },
-    {
-      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent...",
-      "date": "2026-09-08",
-      "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html"
+      "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like...",
+      "date": "2026-09-09",
+      "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html"
     },
     {
-      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+      "title": "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones. The person being...",
-      "date": "2026-09-08",
-      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html"
+      "severity": "High",
+      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between...",
+      "date": "2026-09-09",
+      "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html"
     },
     {
-      "title": "What It Took to Reach 1 Billion Build Manifests",
+      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image...",
-      "date": "2026-09-08",
-      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html"
+      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The...",
+      "date": "2026-09-09",
+      "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html"
+    },
+    {
+      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub...",
+      "date": "2026-09-09",
+      "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html"
+    },
+    {
+      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and...",
+      "date": "2026-09-09",
+      "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html"
+    },
+    {
+      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned...",
+      "date": "2026-09-09",
+      "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html"
     }
   ]
 }
