@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-10 02:40 UTC",
+  "lastUpdated": "2026-09-10 15:41 UTC",
   "items": [
     {
-      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including...",
-      "date": "2026-09-09",
-      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html"
+      "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps...",
+      "date": "2026-09-10",
+      "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html"
     },
     {
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote...",
+      "date": "2026-09-10",
+      "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html"
+    },
+    {
+      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in...",
-      "date": "2026-09-09",
-      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html"
+      "summary": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in...",
+      "date": "2026-09-10",
+      "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html"
     },
     {
-      "title": "Threat matrix: Mapping threats across cloud web applications",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps...",
-      "date": "2026-09-09",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/"
+      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a...",
+      "date": "2026-09-10",
+      "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html"
     },
     {
-      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like...",
-      "date": "2026-09-09",
-      "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html"
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV)...",
+      "date": "2026-09-10",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html"
     },
     {
-      "title": "Passkey-themed social engineering leads to identity and cloud compromise",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for...",
-      "date": "2026-09-09",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/"
-    },
-    {
-      "title": "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between...",
-      "date": "2026-09-09",
-      "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html"
+      "severity": "Medium",
+      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an...",
+      "date": "2026-09-10",
+      "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html"
     }
   ]
 }
