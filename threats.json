@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-09 15:45 UTC",
+  "lastUpdated": "2026-09-10 02:40 UTC",
   "items": [
+    {
+      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including...",
+      "date": "2026-09-09",
+      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html"
+    },
+    {
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in...",
+      "date": "2026-09-09",
+      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html"
+    },
+    {
+      "title": "Threat matrix: Mapping threats across cloud web applications",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps...",
+      "date": "2026-09-09",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/"
+    },
     {
       "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
       "source": "The Hacker News",
@@ -10,44 +34,20 @@
       "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html"
     },
     {
+      "title": "Passkey-themed social engineering leads to identity and cloud compromise",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for...",
+      "date": "2026-09-09",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/"
+    },
+    {
       "title": "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
       "source": "The Hacker News",
       "severity": "High",
       "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between...",
       "date": "2026-09-09",
       "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html"
-    },
-    {
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The...",
-      "date": "2026-09-09",
-      "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html"
-    },
-    {
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub...",
-      "date": "2026-09-09",
-      "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html"
-    },
-    {
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and...",
-      "date": "2026-09-09",
-      "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html"
-    },
-    {
-      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned...",
-      "date": "2026-09-09",
-      "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html"
     }
   ]
 }
