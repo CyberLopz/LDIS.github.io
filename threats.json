@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-11 15:42 UTC",
+  "lastUpdated": "2026-09-12 02:41 UTC",
   "items": [
     {
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "source": "The Hacker News",
+      "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
+      "source": "Microsoft Security Blog",
       "severity": "High",
-      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between...",
-      "date": "2026-09-11",
-      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html"
+      "summary": "Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud. The post...",
+      "date": "2026-09-10",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/"
     },
     {
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the...",
-      "date": "2026-09-11",
-      "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html"
-    },
-    {
-      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it\u2019s time to turn our attention to optimizing the process for determining which of those...",
-      "date": "2026-09-11",
-      "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html"
-    },
-    {
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors,...",
-      "date": "2026-09-11",
-      "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html"
-    },
-    {
-      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-      "source": "The Hacker News",
+      "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
+      "source": "Microsoft Security Blog",
       "severity": "High",
-      "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims'...",
-      "date": "2026-09-11",
-      "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html"
+      "summary": "See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain. The post Detect and disrupt AI-themed attacks with Microsoft...",
+      "date": "2026-09-10",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/"
     },
     {
-      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come...",
-      "date": "2026-09-11",
-      "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html"
+      "title": "Threat matrix: Mapping threats across cloud web applications",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps...",
+      "date": "2026-09-09",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/"
+    },
+    {
+      "title": "Passkey-themed social engineering leads to identity and cloud compromise",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for...",
+      "date": "2026-09-09",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/"
+    },
+    {
+      "title": "How to secure edge AI in customer-owned environments",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and...",
+      "date": "2026-09-04",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/"
+    },
+    {
+      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them. The post ASCII smuggling crosses...",
+      "date": "2026-09-03",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/"
     }
   ]
 }
