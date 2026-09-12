@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-12 02:41 UTC",
+  "lastUpdated": "2026-09-12 14:50 UTC",
   "items": [
     {
-      "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud. The post...",
-      "date": "2026-09-10",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/"
+      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI...",
+      "date": "2026-09-12",
+      "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html"
     },
     {
-      "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain. The post Detect and disrupt AI-themed attacks with Microsoft...",
-      "date": "2026-09-10",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/"
+      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen,...",
+      "date": "2026-09-12",
+      "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html"
     },
     {
-      "title": "Threat matrix: Mapping threats across cloud web applications",
-      "source": "Microsoft Security Blog",
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "source": "The Hacker News",
       "severity": "High",
-      "summary": "Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps...",
-      "date": "2026-09-09",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/"
+      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The...",
+      "date": "2026-09-11",
+      "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
     },
     {
-      "title": "Passkey-themed social engineering leads to identity and cloud compromise",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for...",
-      "date": "2026-09-09",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/"
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek,...",
+      "date": "2026-09-11",
+      "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html"
     },
     {
-      "title": "How to secure edge AI in customer-owned environments",
-      "source": "Microsoft Security Blog",
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "source": "The Hacker News",
       "severity": "High",
-      "summary": "As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and...",
-      "date": "2026-09-04",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/"
+      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between...",
+      "date": "2026-09-11",
+      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html"
     },
     {
-      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them. The post ASCII smuggling crosses...",
-      "date": "2026-09-03",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/"
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the...",
+      "date": "2026-09-11",
+      "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html"
     }
   ]
 }
