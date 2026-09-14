@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-14 02:55 UTC",
+  "lastUpdated": "2026-09-14 17:26 UTC",
   "items": [
     {
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's...",
+      "date": "2026-09-14",
+      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html"
+    },
+    {
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using...",
-      "date": "2026-09-13",
-      "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html"
+      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances...",
+      "date": "2026-09-14",
+      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html"
     },
     {
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known...",
-      "date": "2026-09-12",
-      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html"
-    },
-    {
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI...",
-      "date": "2026-09-12",
-      "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html"
+      "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for...",
+      "date": "2026-09-14",
+      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html"
     },
     {
-      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen,...",
-      "date": "2026-09-12",
-      "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html"
-    },
-    {
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The...",
-      "date": "2026-09-11",
-      "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
+      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That...",
+      "date": "2026-09-14",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html"
     },
     {
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "There's a lot of noise around AI and cybersecurity right now. What\u2019s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and...",
+      "date": "2026-09-14",
+      "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html"
+    },
+    {
+      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek,...",
-      "date": "2026-09-11",
-      "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html"
+      "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension,...",
+      "date": "2026-09-14",
+      "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html"
     }
   ]
 }
