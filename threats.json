@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-15 02:58 UTC",
+  "lastUpdated": "2026-09-15 16:03 UTC",
   "items": [
     {
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's...",
-      "date": "2026-09-14",
-      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html"
+      "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control...",
+      "date": "2026-09-15",
+      "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html"
     },
     {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool...",
-      "date": "2026-09-14",
-      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html"
+      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show...",
+      "date": "2026-09-15",
+      "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html"
     },
     {
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on...",
-      "date": "2026-09-14",
-      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html"
-    },
-    {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing...",
-      "date": "2026-09-14",
-      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html"
+      "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does...",
+      "date": "2026-09-15",
+      "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html"
     },
     {
-      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for...",
-      "date": "2026-09-14",
-      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That...",
-      "date": "2026-09-14",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html"
+      "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at...",
+      "date": "2026-09-15",
+      "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html"
+    },
+    {
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on...",
+      "date": "2026-09-15",
+      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html"
+    },
+    {
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as...",
+      "date": "2026-09-15",
+      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html"
     }
   ]
 }
