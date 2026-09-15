@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14 17:26 UTC",
+  "lastUpdated": "2026-09-15 02:58 UTC",
   "items": [
     {
       "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
@@ -10,10 +10,26 @@
       "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html"
     },
     {
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool...",
+      "date": "2026-09-14",
+      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html"
+    },
+    {
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on...",
+      "date": "2026-09-14",
+      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html"
+    },
+    {
       "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances...",
+      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing...",
       "date": "2026-09-14",
       "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html"
     },
@@ -32,22 +48,6 @@
       "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That...",
       "date": "2026-09-14",
       "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html"
-    },
-    {
-      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "There's a lot of noise around AI and cybersecurity right now. What\u2019s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and...",
-      "date": "2026-09-14",
-      "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html"
-    },
-    {
-      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension,...",
-      "date": "2026-09-14",
-      "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html"
     }
   ]
 }
