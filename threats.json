@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-16 02:54 UTC",
+  "lastUpdated": "2026-09-16 15:56 UTC",
   "items": [
     {
-      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the...",
+      "severity": "Medium",
+      "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code...",
       "date": "2026-09-16",
-      "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html"
+      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html"
     },
     {
-      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents,...",
-      "date": "2026-09-15",
-      "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html"
+      "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs...",
+      "date": "2026-09-16",
+      "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html"
     },
     {
-      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control...",
-      "date": "2026-09-15",
-      "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html"
-    },
-    {
-      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show...",
-      "date": "2026-09-15",
-      "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html"
+      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks...",
+      "date": "2026-09-16",
+      "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html"
     },
     {
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does...",
-      "date": "2026-09-15",
-      "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html"
+      "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score:...",
+      "date": "2026-09-16",
+      "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html"
     },
     {
-      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at...",
-      "date": "2026-09-15",
-      "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html"
+      "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams...",
+      "date": "2026-09-16",
+      "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html"
+    },
+    {
+      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as...",
+      "date": "2026-09-16",
+      "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html"
     }
   ]
 }
