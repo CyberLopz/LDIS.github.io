@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-18 02:44 UTC",
+  "lastUpdated": "2026-09-18 15:38 UTC",
   "items": [
     {
-      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who...",
-      "date": "2026-09-17",
-      "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html"
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment?...",
-      "date": "2026-09-17",
-      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html"
+      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The...",
+      "date": "2026-09-18",
+      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html"
     },
     {
-      "title": "From guidance to action: Security fundamentals that materially reduce risk",
-      "source": "Microsoft Security Blog",
-      "severity": "Info",
-      "summary": "AI has made fundamental changes to the operating environment for cybersecurity. Explore exposure management guidance on recommended controls and take action and stay ahead of...",
-      "date": "2026-09-17",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/"
-    },
-    {
-      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide...",
-      "date": "2026-09-17",
-      "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html"
+      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed...",
+      "date": "2026-09-18",
+      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html"
     },
     {
-      "title": "Improving email security outcomes with real-world Microsoft Defender insights",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "The latest email security benchmarking reports show strong Microsoft Defender performance across pre-delivery and post-delivery scenarios and reveal where threats and defenses continue...",
-      "date": "2026-09-17",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/"
-    },
-    {
-      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple...",
-      "date": "2026-09-17",
-      "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html"
+      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that...",
+      "date": "2026-09-18",
+      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html"
+    },
+    {
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new...",
+      "date": "2026-09-18",
+      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html"
+    },
+    {
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package...",
+      "date": "2026-09-18",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html"
+    },
+    {
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence...",
+      "date": "2026-09-18",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html"
     }
   ]
 }
