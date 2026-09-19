@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-19 02:43 UTC",
+  "lastUpdated": "2026-09-19 15:11 UTC",
   "items": [
     {
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers...",
-      "date": "2026-09-18",
-      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html"
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment?...",
+      "date": "2026-09-19",
+      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html"
     },
     {
-      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a...",
-      "date": "2026-09-18",
-      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html"
-    },
-    {
-      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense...",
-      "date": "2026-09-18",
-      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html"
-    },
-    {
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The...",
-      "date": "2026-09-18",
-      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html"
+      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach...",
+      "date": "2026-09-19",
+      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html"
     },
     {
-      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed...",
-      "date": "2026-09-18",
-      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html"
+      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an...",
+      "date": "2026-09-19",
+      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
     },
     {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code...",
+      "date": "2026-09-19",
+      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html"
+    },
+    {
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score:...",
+      "date": "2026-09-19",
+      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
+    },
+    {
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that...",
-      "date": "2026-09-18",
-      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html"
+      "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development...",
+      "date": "2026-09-19",
+      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
     }
   ]
 }
