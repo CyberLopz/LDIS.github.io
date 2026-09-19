@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-18 15:38 UTC",
+  "lastUpdated": "2026-09-19 02:43 UTC",
   "items": [
+    {
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers...",
+      "date": "2026-09-18",
+      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html"
+    },
+    {
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a...",
+      "date": "2026-09-18",
+      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html"
+    },
+    {
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense...",
+      "date": "2026-09-18",
+      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html"
+    },
     {
       "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that...",
       "date": "2026-09-18",
       "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html"
-    },
-    {
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new...",
-      "date": "2026-09-18",
-      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html"
-    },
-    {
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package...",
-      "date": "2026-09-18",
-      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html"
-    },
-    {
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence...",
-      "date": "2026-09-18",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html"
     }
   ]
 }
