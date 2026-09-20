@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-19 15:11 UTC",
+  "lastUpdated": "2026-09-20 02:55 UTC",
   "items": [
+    {
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an...",
+      "date": "2026-09-20",
+      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
+    },
     {
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
       "source": "The Hacker News",
@@ -16,14 +24,6 @@
       "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach...",
       "date": "2026-09-19",
       "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html"
-    },
-    {
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an...",
-      "date": "2026-09-19",
-      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
     },
     {
       "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
