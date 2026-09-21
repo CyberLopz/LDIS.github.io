@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-09-21 02:52 UTC",
+  "lastUpdated": "2026-09-21 17:40 UTC",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a...",
+      "date": "2026-09-21",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html"
+    },
+    {
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The...",
+      "date": "2026-09-21",
+      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html"
+    },
+    {
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names,...",
+      "date": "2026-09-21",
+      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html"
+    },
+    {
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services...",
+      "date": "2026-09-21",
+      "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html"
+    },
     {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment?...",
       "date": "2026-09-19",
       "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html"
-    },
-    {
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach...",
-      "date": "2026-09-19",
-      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html"
-    },
-    {
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code...",
-      "date": "2026-09-19",
-      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html"
-    },
-    {
-      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score:...",
-      "date": "2026-09-19",
-      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
-    },
-    {
-      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development...",
-      "date": "2026-09-19",
-      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
     }
   ]
 }
