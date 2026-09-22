@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-22 02:53 UTC",
+  "lastUpdated": "2026-09-22 16:06 UTC",
   "items": [
     {
-      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim...",
-      "date": "2026-09-21",
-      "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html"
+      "summary": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover,...",
+      "date": "2026-09-22",
+      "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html"
     },
     {
-      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account...",
-      "date": "2026-09-21",
-      "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html"
+      "severity": "Critical",
+      "summary": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw,...",
+      "date": "2026-09-22",
+      "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html"
     },
     {
-      "title": "Google Fined \u20ac403 Million Over GDPR Violations Tied to Location Data",
+      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Google has been fined \u20ac403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020....",
-      "date": "2026-09-21",
-      "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html"
+      "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first...",
+      "date": "2026-09-22",
+      "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html"
     },
     {
-      "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a...",
-      "date": "2026-09-21",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html"
+      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested...",
+      "date": "2026-09-22",
+      "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html"
     },
     {
-      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The...",
-      "date": "2026-09-21",
-      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html"
+      "severity": "High",
+      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full...",
+      "date": "2026-09-22",
+      "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html"
     },
     {
-      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names,...",
-      "date": "2026-09-21",
-      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html"
+      "summary": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors...",
+      "date": "2026-09-22",
+      "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html"
     }
   ]
 }
