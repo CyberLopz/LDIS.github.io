@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-23 02:53 UTC",
+  "lastUpdated": "2026-09-23 15:56 UTC",
   "items": [
     {
-      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The flaw, CVE-2026-93616, allows...",
-      "date": "2026-09-22",
-      "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html"
+      "severity": "Medium",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose...",
+      "date": "2026-09-23",
+      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html"
     },
     {
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go...",
-      "date": "2026-09-22",
-      "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html"
-    },
-    {
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into...",
-      "date": "2026-09-22",
-      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html"
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based...",
+      "date": "2026-09-23",
+      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html"
     },
     {
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second...",
+      "date": "2026-09-23",
+      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html"
+    },
+    {
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote...",
+      "date": "2026-09-23",
+      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html"
+    },
+    {
+      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky...",
+      "date": "2026-09-23",
+      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html"
+    },
+    {
+      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action,...",
-      "date": "2026-09-22",
-      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html"
-    },
-    {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the...",
-      "date": "2026-09-22",
-      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html"
-    },
-    {
-      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19....",
-      "date": "2026-09-22",
-      "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html"
+      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September...",
+      "date": "2026-09-23",
+      "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html"
     }
   ]
 }
