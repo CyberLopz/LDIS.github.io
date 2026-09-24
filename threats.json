@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-23 15:56 UTC",
+  "lastUpdated": "2026-09-24 02:44 UTC",
   "items": [
+    {
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized...",
+      "date": "2026-09-23",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html"
+    },
+    {
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push...",
+      "date": "2026-09-23",
+      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html"
+    },
+    {
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed...",
+      "date": "2026-09-23",
+      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html"
+    },
     {
       "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second...",
       "date": "2026-09-23",
       "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html"
-    },
-    {
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote...",
-      "date": "2026-09-23",
-      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html"
-    },
-    {
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky...",
-      "date": "2026-09-23",
-      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html"
-    },
-    {
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September...",
-      "date": "2026-09-23",
-      "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html"
     }
   ]
 }
