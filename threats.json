@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-24 02:44 UTC",
+  "lastUpdated": "2026-09-24 16:19 UTC",
   "items": [
     {
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized...",
-      "date": "2026-09-23",
-      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html"
-    },
-    {
-      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push...",
-      "date": "2026-09-23",
-      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html"
-    },
-    {
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed...",
-      "date": "2026-09-23",
-      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html"
+      "summary": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a...",
+      "date": "2026-09-24",
+      "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html"
     },
     {
-      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose...",
-      "date": "2026-09-23",
-      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html"
+      "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses...",
+      "date": "2026-09-24",
+      "link": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html"
     },
     {
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based...",
-      "date": "2026-09-23",
-      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html"
+      "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian\u2019s 2026 State of Secrets...",
+      "date": "2026-09-24",
+      "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html"
     },
     {
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces...",
+      "date": "2026-09-24",
+      "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html"
+    },
+    {
+      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second...",
-      "date": "2026-09-23",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html"
+      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal...",
+      "date": "2026-09-24",
+      "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
+    },
+    {
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365...",
+      "date": "2026-09-24",
+      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html"
     }
   ]
 }
