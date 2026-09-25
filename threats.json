@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-24 16:19 UTC",
+  "lastUpdated": "2026-09-25 03:00 UTC",
   "items": [
+    {
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in...",
+      "date": "2026-09-24",
+      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html"
+    },
+    {
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is...",
+      "date": "2026-09-24",
+      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html"
+    },
+    {
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other...",
+      "date": "2026-09-24",
+      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html"
+    },
     {
       "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian\u2019s 2026 State of Secrets...",
       "date": "2026-09-24",
       "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html"
-    },
-    {
-      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces...",
-      "date": "2026-09-24",
-      "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html"
-    },
-    {
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal...",
-      "date": "2026-09-24",
-      "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
-    },
-    {
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365...",
-      "date": "2026-09-24",
-      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html"
     }
   ]
 }
