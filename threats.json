@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25 16:19 UTC",
+  "lastUpdated": "2026-09-26 03:04 UTC",
   "items": [
     {
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
@@ -42,12 +42,12 @@
       "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html"
     },
     {
-      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on...",
+      "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with...",
       "date": "2026-09-25",
-      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html"
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/"
     }
   ]
 }
