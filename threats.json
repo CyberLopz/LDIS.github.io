@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-28 03:06 UTC",
+  "lastUpdated": "2026-09-28 19:06 UTC",
   "items": [
     {
-      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released...",
-      "date": "2026-09-27",
-      "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html"
-    },
-    {
-      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "title": "IAM for AI agents: A Practical Enterprise Framework",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform...",
-      "date": "2026-09-26",
-      "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html"
+      "summary": "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that...",
+      "date": "2026-09-28",
+      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html"
     },
     {
-      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked...",
-      "date": "2026-09-26",
-      "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html"
+      "severity": "High",
+      "summary": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said...",
+      "date": "2026-09-28",
+      "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html"
     },
     {
-      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could...",
-      "date": "2026-09-26",
-      "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html"
+      "summary": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has traced nearly 100...",
+      "date": "2026-09-28",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html"
     },
     {
-      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue...",
-      "date": "2026-09-26",
-      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html"
+      "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was:...",
+      "date": "2026-09-28",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html"
     },
     {
-      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited...",
-      "date": "2026-09-26",
-      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"
+      "severity": "Medium",
+      "summary": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems\u2014often...",
+      "date": "2026-09-28",
+      "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html"
+    },
+    {
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI)...",
+      "date": "2026-09-28",
+      "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html"
     }
   ]
 }
