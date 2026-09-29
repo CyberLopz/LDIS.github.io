@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-29 03:45 UTC",
+  "lastUpdated": "2026-09-29 17:28 UTC",
   "items": [
     {
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability,...",
+      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web...",
       "date": "2026-09-29",
-      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html"
+      "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html"
     },
     {
-      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis. The malware has been...",
+      "severity": "Critical",
+      "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled...",
       "date": "2026-09-29",
-      "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html"
+      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html"
     },
     {
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that...",
-      "date": "2026-09-28",
-      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html"
-    },
-    {
-      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said...",
-      "date": "2026-09-28",
-      "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html"
-    },
-    {
-      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has traced nearly 100...",
-      "date": "2026-09-28",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html"
+      "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious...",
+      "date": "2026-09-29",
+      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html"
     },
     {
-      "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-      "source": "The Hacker News",
+      "title": "\u200b\u200bBeyond source code: A path to the keys to the kingdom",
+      "source": "Microsoft Security Blog",
       "severity": "High",
-      "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was:...",
-      "date": "2026-09-28",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html"
+      "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The...",
+      "date": "2026-09-29",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/"
+    },
+    {
+      "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of...",
+      "date": "2026-09-29",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/"
+    },
+    {
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from...",
+      "date": "2026-09-29",
+      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html"
     }
   ]
 }
