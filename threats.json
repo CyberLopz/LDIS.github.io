@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-28 19:06 UTC",
+  "lastUpdated": "2026-09-29 03:45 UTC",
   "items": [
+    {
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability,...",
+      "date": "2026-09-29",
+      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html"
+    },
+    {
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis. The malware has been...",
+      "date": "2026-09-29",
+      "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html"
+    },
     {
       "title": "IAM for AI agents: A Practical Enterprise Framework",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was:...",
       "date": "2026-09-28",
       "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html"
-    },
-    {
-      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems\u2014often...",
-      "date": "2026-09-28",
-      "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html"
-    },
-    {
-      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI)...",
-      "date": "2026-09-28",
-      "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html"
     }
   ]
 }
