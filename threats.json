@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-29 17:28 UTC",
+  "lastUpdated": "2026-09-30 03:33 UTC",
   "items": [
+    {
+      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax...",
+      "date": "2026-09-29",
+      "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html"
+    },
     {
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "source": "The Hacker News",
@@ -8,6 +16,22 @@
       "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web...",
       "date": "2026-09-29",
       "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html"
+    },
+    {
+      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft. The...",
+      "date": "2026-09-29",
+      "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html"
+    },
+    {
+      "title": "Phishing Abuses RMM Tools for Persistent Access",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity The post Phishing Abuses RMM Tools...",
+      "date": "2026-09-29",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/"
     },
     {
       "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
@@ -24,30 +48,6 @@
       "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious...",
       "date": "2026-09-29",
       "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html"
-    },
-    {
-      "title": "\u200b\u200bBeyond source code: A path to the keys to the kingdom",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The...",
-      "date": "2026-09-29",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/"
-    },
-    {
-      "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of...",
-      "date": "2026-09-29",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/"
-    },
-    {
-      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from...",
-      "date": "2026-09-29",
-      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html"
     }
   ]
 }
