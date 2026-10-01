@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-01 03:38 UTC",
+  "lastUpdated": "2026-10-01 17:52 UTC",
   "items": [
     {
-      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft...",
-      "date": "2026-09-30",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html"
-    },
-    {
-      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed...",
-      "date": "2026-09-30",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html"
-    },
-    {
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on...",
-      "date": "2026-09-30",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html"
+      "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to...",
+      "date": "2026-10-01",
+      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html"
     },
     {
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people...",
+      "date": "2026-10-01",
+      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html"
+    },
+    {
+      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver...",
-      "date": "2026-09-30",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html"
+      "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning...",
+      "date": "2026-10-01",
+      "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html"
     },
     {
-      "title": "\u200b\u200bSecure what\u2019s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI...",
-      "date": "2026-09-30",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/"
-    },
-    {
-      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they...",
-      "date": "2026-09-30",
-      "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html"
+      "severity": "Medium",
+      "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it...",
+      "date": "2026-10-01",
+      "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html"
+    },
+    {
+      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI)...",
+      "date": "2026-10-01",
+      "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html"
+    },
+    {
+      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited...",
+      "date": "2026-10-01",
+      "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html"
     }
   ]
 }
