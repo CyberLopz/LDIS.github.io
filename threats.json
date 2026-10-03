@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-10-03 03:22 UTC",
+  "lastUpdated": "2026-10-03 15:34 UTC",
   "items": [
+    {
+      "title": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state...",
+      "date": "2026-10-03",
+      "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html"
+    },
+    {
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting...",
+      "date": "2026-10-03",
+      "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html"
+    },
+    {
+      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more...",
+      "date": "2026-10-03",
+      "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html"
+    },
     {
       "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible...",
       "date": "2026-10-02",
       "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html"
-    },
-    {
-      "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted...",
-      "date": "2026-10-02",
-      "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html"
-    },
-    {
-      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR...",
-      "date": "2026-10-02",
-      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html"
-    },
-    {
-      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is...",
-      "date": "2026-10-02",
-      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html"
     }
   ]
 }
