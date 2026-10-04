@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-04 03:50 UTC",
+  "lastUpdated": "2026-10-04 16:18 UTC",
   "items": [
+    {
+      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three...",
+      "date": "2026-10-04",
+      "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html"
+    },
+    {
+      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think...",
+      "date": "2026-10-04",
+      "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html"
+    },
     {
       "title": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The...",
       "date": "2026-10-02",
       "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html"
-    },
-    {
-      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and...",
-      "date": "2026-10-02",
-      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html"
-    },
-    {
-      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible...",
-      "date": "2026-10-02",
-      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html"
     }
   ]
 }
