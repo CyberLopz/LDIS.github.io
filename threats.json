@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-05 03:35 UTC",
+  "lastUpdated": "2026-10-05 20:04 UTC",
   "items": [
     {
-      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three...",
-      "date": "2026-10-04",
-      "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html"
-    },
-    {
-      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think...",
-      "date": "2026-10-04",
-      "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html"
+      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain...",
+      "date": "2026-10-05",
+      "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html"
     },
     {
-      "title": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state...",
-      "date": "2026-10-03",
-      "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html"
-    },
-    {
-      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "title": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting...",
-      "date": "2026-10-03",
-      "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html"
+      "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week\u2019s threats keep finding leverage in small...",
+      "date": "2026-10-05",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html"
     },
     {
-      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more...",
-      "date": "2026-10-03",
-      "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html"
+      "severity": "High",
+      "summary": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential...",
+      "date": "2026-10-05",
+      "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html"
     },
     {
-      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The...",
-      "date": "2026-10-02",
-      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html"
+      "summary": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called...",
+      "date": "2026-10-05",
+      "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html"
+    },
+    {
+      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents....",
+      "date": "2026-10-05",
+      "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html"
+    },
+    {
+      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500...",
+      "date": "2026-10-05",
+      "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html"
     }
   ]
 }
