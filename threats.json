@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-06 17:46 UTC",
+  "lastUpdated": "2026-10-07 03:49 UTC",
   "items": [
+    {
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google...",
+      "date": "2026-10-07",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html"
+    },
+    {
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and...",
+      "date": "2026-10-06",
+      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html"
+    },
     {
       "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management. The post CISO perspectives on managing vulnerability risks in...",
       "date": "2026-10-06",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/"
-    },
-    {
-      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no...",
-      "date": "2026-10-06",
-      "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html"
-    },
-    {
-      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application...",
-      "date": "2026-10-06",
-      "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html"
     }
   ]
 }
