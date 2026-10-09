@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-09 04:08 UTC",
+  "lastUpdated": "2026-10-09 17:51 UTC",
   "items": [
     {
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the...",
-      "date": "2026-10-09",
-      "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html"
-    },
-    {
-      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and...",
-      "date": "2026-10-08",
-      "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html"
-    },
-    {
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC)...",
-      "date": "2026-10-08",
-      "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html"
-    },
-    {
-      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to...",
-      "date": "2026-10-08",
-      "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html"
-    },
-    {
-      "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
-      "source": "Microsoft Security Blog",
       "severity": "High",
-      "summary": "Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft\u2019s PQC TLS Pilot Program helps advance future readiness. The post Post-quantum...",
-      "date": "2026-10-08",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/"
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7...",
+      "date": "2026-10-09",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html"
     },
     {
-      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named...",
-      "date": "2026-10-08",
-      "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the...",
+      "date": "2026-10-09",
+      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html"
+    },
+    {
+      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves...",
+      "date": "2026-10-09",
+      "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html"
+    },
+    {
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service...",
+      "date": "2026-10-09",
+      "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html"
+    },
+    {
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig...",
+      "date": "2026-10-09",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html"
+    },
+    {
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a...",
+      "date": "2026-10-09",
+      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html"
     }
   ]
 }
