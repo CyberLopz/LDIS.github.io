@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-08 18:18 UTC",
+  "lastUpdated": "2026-10-09 04:08 UTC",
   "items": [
+    {
+      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the...",
+      "date": "2026-10-09",
+      "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html"
+    },
+    {
+      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and...",
+      "date": "2026-10-08",
+      "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html"
+    },
     {
       "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
       "source": "The Hacker News",
@@ -18,36 +34,20 @@
       "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html"
     },
     {
+      "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft\u2019s PQC TLS Pilot Program helps advance future readiness. The post Post-quantum...",
+      "date": "2026-10-08",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/"
+    },
+    {
       "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
       "source": "The Hacker News",
       "severity": "Medium",
       "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named...",
       "date": "2026-10-08",
       "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
-    },
-    {
-      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and...",
-      "date": "2026-10-08",
-      "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html"
-    },
-    {
-      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The...",
-      "date": "2026-10-08",
-      "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html"
-    },
-    {
-      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in...",
-      "date": "2026-10-08",
-      "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html"
     }
   ]
 }
