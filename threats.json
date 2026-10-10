@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-10 03:53 UTC",
+  "lastUpdated": "2026-10-10 16:47 UTC",
   "items": [
+    {
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are...",
+      "date": "2026-10-10",
+      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html"
+    },
+    {
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models...",
+      "date": "2026-10-10",
+      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html"
+    },
     {
       "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the...",
       "date": "2026-10-09",
       "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html"
-    },
-    {
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves...",
-      "date": "2026-10-09",
-      "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html"
-    },
-    {
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service...",
-      "date": "2026-10-09",
-      "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html"
     }
   ]
 }
