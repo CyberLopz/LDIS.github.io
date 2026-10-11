@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-11 03:27 UTC",
+  "lastUpdated": "2026-10-11 17:12 UTC",
   "items": [
+    {
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7...",
+      "date": "2026-10-11",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html"
+    },
     {
       "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
       "source": "The Hacker News",
@@ -32,14 +40,6 @@
       "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in...",
       "date": "2026-10-09",
       "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html"
-    },
-    {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7...",
-      "date": "2026-10-09",
-      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html"
     },
     {
       "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
