@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-12 03:51 UTC",
+  "lastUpdated": "2026-10-12 20:45 UTC",
   "items": [
     {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7...",
-      "date": "2026-10-11",
-      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html"
-    },
-    {
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are...",
-      "date": "2026-10-10",
-      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html"
+      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the...",
+      "date": "2026-10-12",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html"
     },
     {
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models...",
-      "date": "2026-10-10",
-      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html"
-    },
-    {
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious...",
-      "date": "2026-10-10",
-      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html"
-    },
-    {
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in...",
-      "date": "2026-10-09",
-      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html"
+      "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising...",
+      "date": "2026-10-12",
+      "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html"
     },
     {
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the...",
-      "date": "2026-10-09",
-      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html"
+      "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the...",
+      "date": "2026-10-12",
+      "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html"
+    },
+    {
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The...",
+      "date": "2026-10-12",
+      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html"
+    },
+    {
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in...",
+      "date": "2026-10-12",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html"
+    },
+    {
+      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and...",
+      "date": "2026-10-12",
+      "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html"
     }
   ]
 }
