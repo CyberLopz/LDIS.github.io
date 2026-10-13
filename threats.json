@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-13 05:01 UTC",
+  "lastUpdated": "2026-10-13 18:45 UTC",
   "items": [
     {
-      "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the...",
-      "date": "2026-10-12",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html"
+      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new...",
+      "date": "2026-10-13",
+      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html"
     },
     {
-      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+      "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data...",
+      "date": "2026-10-13",
+      "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html"
+    },
+    {
+      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of...",
+      "date": "2026-10-13",
+      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html"
+    },
+    {
+      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising...",
-      "date": "2026-10-12",
-      "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html"
+      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has...",
+      "date": "2026-10-13",
+      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html"
     },
     {
-      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the...",
-      "date": "2026-10-12",
-      "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html"
+      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed...",
+      "date": "2026-10-13",
+      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html"
     },
     {
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The...",
-      "date": "2026-10-12",
-      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html"
-    },
-    {
-      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in...",
-      "date": "2026-10-12",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html"
-    },
-    {
-      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and...",
-      "date": "2026-10-12",
-      "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html"
+      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail...",
+      "date": "2026-10-13",
+      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html"
     }
   ]
 }
