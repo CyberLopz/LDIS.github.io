@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-10-13 18:45 UTC",
+  "lastUpdated": "2026-10-14 03:08 UTC",
   "items": [
+    {
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a...",
+      "date": "2026-10-13",
+      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html"
+    },
+    {
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30...",
+      "date": "2026-10-13",
+      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html"
+    },
+    {
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has...",
+      "date": "2026-10-13",
+      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html"
+    },
+    {
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects...",
+      "date": "2026-10-13",
+      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html"
+    },
     {
       "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data...",
       "date": "2026-10-13",
       "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html"
-    },
-    {
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of...",
-      "date": "2026-10-13",
-      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html"
-    },
-    {
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has...",
-      "date": "2026-10-13",
-      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html"
-    },
-    {
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed...",
-      "date": "2026-10-13",
-      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html"
-    },
-    {
-      "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail...",
-      "date": "2026-10-13",
-      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html"
     }
   ]
 }
