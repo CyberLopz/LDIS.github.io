@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-14 03:08 UTC",
+  "lastUpdated": "2026-10-14 16:20 UTC",
   "items": [
     {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a...",
-      "date": "2026-10-13",
-      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html"
-    },
-    {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30...",
-      "date": "2026-10-13",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html"
-    },
-    {
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has...",
-      "date": "2026-10-13",
-      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html"
-    },
-    {
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects...",
-      "date": "2026-10-13",
-      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html"
-    },
-    {
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new...",
-      "date": "2026-10-13",
-      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html"
-    },
-    {
-      "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data...",
-      "date": "2026-10-13",
-      "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html"
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and...",
+      "date": "2026-10-14",
+      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html"
+    },
+    {
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on...",
+      "date": "2026-10-14",
+      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html"
+    },
+    {
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks...",
+      "date": "2026-10-14",
+      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html"
+    },
+    {
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company...",
+      "date": "2026-10-14",
+      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html"
+    },
+    {
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions...",
+      "date": "2026-10-14",
+      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html"
+    },
+    {
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent...",
+      "date": "2026-10-14",
+      "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html"
     }
   ]
 }
