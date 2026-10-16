@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-10-15 16:08 UTC",
+  "lastUpdated": "2026-10-16 02:44 UTC",
   "items": [
+    {
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against...",
+      "date": "2026-10-16",
+      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html"
+    },
+    {
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that\u2019s an actual feature. And somehow, it fits right in with this week's security stories. The...",
+      "date": "2026-10-16",
+      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html"
+    },
+    {
+      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action...",
+      "date": "2026-10-15",
+      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html"
+    },
+    {
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity,...",
+      "date": "2026-10-15",
+      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html"
+    },
     {
       "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company...",
       "date": "2026-10-15",
       "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html"
-    },
-    {
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service...",
-      "date": "2026-10-15",
-      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html"
-    },
-    {
-      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and...",
-      "date": "2026-10-15",
-      "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html"
-    },
-    {
-      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI...",
-      "date": "2026-10-15",
-      "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html"
-    },
-    {
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322...",
-      "date": "2026-10-15",
-      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html"
     }
   ]
 }
