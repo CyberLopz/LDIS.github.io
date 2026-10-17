@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-10-16 15:55 UTC",
+  "lastUpdated": "2026-10-17 02:36 UTC",
   "items": [
+    {
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL...",
+      "date": "2026-10-16",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html"
+    },
+    {
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that...",
+      "date": "2026-10-16",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html"
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research...",
+      "date": "2026-10-16",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html"
+    },
     {
       "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
       "source": "The Hacker News",
@@ -18,36 +42,12 @@
       "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html"
     },
     {
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly...",
-      "date": "2026-10-16",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html"
-    },
-    {
-      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory...",
-      "date": "2026-10-16",
-      "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html"
-    },
-    {
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "source": "The Hacker News",
+      "title": "Managing open-weight model risk in enterprise deployments",
+      "source": "Microsoft Security Blog",
       "severity": "High",
-      "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH....",
+      "summary": "New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk...",
       "date": "2026-10-16",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html"
-    },
-    {
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against...",
-      "date": "2026-10-16",
-      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html"
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/"
     }
   ]
 }
