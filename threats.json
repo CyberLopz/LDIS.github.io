@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-17 02:36 UTC",
+  "lastUpdated": "2026-10-17 14:48 UTC",
   "items": [
+    {
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\"...",
+      "date": "2026-10-17",
+      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html"
+    },
+    {
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to...",
+      "date": "2026-10-17",
+      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html"
+    },
     {
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having...",
       "date": "2026-10-16",
       "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html"
-    },
-    {
-      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's...",
-      "date": "2026-10-16",
-      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html"
-    },
-    {
-      "title": "Managing open-weight model risk in enterprise deployments",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk...",
-      "date": "2026-10-16",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/"
     }
   ]
 }
