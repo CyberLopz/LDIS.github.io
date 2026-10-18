@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-18 02:37 UTC",
+  "lastUpdated": "2026-10-18 15:14 UTC",
   "items": [
+    {
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained...",
+      "date": "2026-10-18",
+      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html"
+    },
     {
       "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research...",
       "date": "2026-10-16",
       "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html"
-    },
-    {
-      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having...",
-      "date": "2026-10-16",
-      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html"
     }
   ]
 }
