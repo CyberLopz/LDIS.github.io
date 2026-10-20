@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-20 03:01 UTC",
+  "lastUpdated": "2026-10-20 16:11 UTC",
   "items": [
     {
-      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went...",
-      "date": "2026-10-19",
-      "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html"
-    },
-    {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and...",
-      "date": "2026-10-19",
-      "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time...",
-      "date": "2026-10-19",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html"
+      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code...",
+      "date": "2026-10-20",
+      "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html"
     },
     {
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates...",
+      "date": "2026-10-20",
+      "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html"
+    },
+    {
+      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and...",
-      "date": "2026-10-19",
-      "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html"
+      "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators...",
+      "date": "2026-10-20",
+      "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html"
     },
     {
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
+      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt....",
-      "date": "2026-10-19",
-      "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html"
+      "summary": "The iPhone of Vladan \u0110oki\u0107, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026,...",
+      "date": "2026-10-20",
+      "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html"
     },
     {
-      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free...",
-      "date": "2026-10-19",
-      "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html"
+      "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their...",
+      "date": "2026-10-20",
+      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html"
+    },
+    {
+      "title": "What Security Teams Can Do To Tame Wild Code",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves...",
+      "date": "2026-10-20",
+      "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html"
     }
   ]
 }
