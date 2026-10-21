@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-21 02:56 UTC",
+  "lastUpdated": "2026-10-21 16:27 UTC",
   "items": [
     {
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate...",
-      "date": "2026-10-20",
-      "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html"
+      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12,...",
+      "date": "2026-10-21",
+      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html"
     },
     {
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code...",
-      "date": "2026-10-20",
-      "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html"
-    },
-    {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates...",
-      "date": "2026-10-20",
-      "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html"
-    },
-    {
-      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators...",
-      "date": "2026-10-20",
-      "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html"
-    },
-    {
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The iPhone of Vladan \u0110oki\u0107, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026,...",
-      "date": "2026-10-20",
-      "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html"
+      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular...",
+      "date": "2026-10-21",
+      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html"
     },
     {
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their...",
-      "date": "2026-10-20",
-      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html"
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in...",
+      "date": "2026-10-21",
+      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html"
+    },
+    {
+      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent,...",
+      "date": "2026-10-21",
+      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html"
+    },
+    {
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm...",
+      "date": "2026-10-21",
+      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html"
+    },
+    {
+      "title": "The Harness Is the Hard Part of Agentic Pentesting",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks...",
+      "date": "2026-10-21",
+      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html"
     }
   ]
 }
