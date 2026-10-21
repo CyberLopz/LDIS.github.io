@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-20 16:11 UTC",
+  "lastUpdated": "2026-10-21 02:56 UTC",
   "items": [
+    {
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate...",
+      "date": "2026-10-20",
+      "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html"
+    },
     {
       "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their...",
       "date": "2026-10-20",
       "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html"
-    },
-    {
-      "title": "What Security Teams Can Do To Tame Wild Code",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves...",
-      "date": "2026-10-20",
-      "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html"
     }
   ]
 }
