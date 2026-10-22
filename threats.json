@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-22 02:54 UTC",
+  "lastUpdated": "2026-10-22 16:27 UTC",
   "items": [
     {
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0,...",
+      "severity": "Medium",
+      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the...",
       "date": "2026-10-22",
-      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
+      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html"
     },
     {
-      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep,...",
-      "date": "2026-10-21",
-      "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html"
-    },
-    {
-      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes...",
-      "date": "2026-10-21",
-      "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html"
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without...",
+      "date": "2026-10-22",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html"
     },
     {
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12,...",
-      "date": "2026-10-21",
-      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html"
+      "severity": "High",
+      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the...",
+      "date": "2026-10-22",
+      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html"
     },
     {
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular...",
-      "date": "2026-10-21",
-      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html"
+      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to...",
+      "date": "2026-10-22",
+      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html"
     },
     {
-      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-      "source": "Microsoft Security Blog",
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "source": "The Hacker News",
       "severity": "High",
-      "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven,...",
-      "date": "2026-10-21",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
+      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer...",
+      "date": "2026-10-22",
+      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html"
+    },
+    {
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code...",
+      "date": "2026-10-22",
+      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html"
     }
   ]
 }
