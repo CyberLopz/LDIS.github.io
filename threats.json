@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-10-21 16:27 UTC",
+  "lastUpdated": "2026-10-22 02:54 UTC",
   "items": [
+    {
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0,...",
+      "date": "2026-10-22",
+      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
+    },
+    {
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep,...",
+      "date": "2026-10-21",
+      "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html"
+    },
+    {
+      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes...",
+      "date": "2026-10-21",
+      "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html"
+    },
     {
       "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
       "source": "The Hacker News",
@@ -18,36 +42,12 @@
       "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html"
     },
     {
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in...",
+      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven,...",
       "date": "2026-10-21",
-      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html"
-    },
-    {
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent,...",
-      "date": "2026-10-21",
-      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html"
-    },
-    {
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm...",
-      "date": "2026-10-21",
-      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html"
-    },
-    {
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks...",
-      "date": "2026-10-21",
-      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html"
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
     }
   ]
 }
