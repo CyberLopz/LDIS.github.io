@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-10-24 02:55 UTC",
+  "lastUpdated": "2026-10-24 15:14 UTC",
   "items": [
+    {
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies...",
+      "date": "2026-10-24",
+      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
+    },
+    {
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious...",
+      "date": "2026-10-24",
+      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
+    },
+    {
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to...",
+      "date": "2026-10-24",
+      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html"
+    },
+    {
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said...",
+      "date": "2026-10-24",
+      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html"
+    },
+    {
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator...",
+      "date": "2026-10-24",
+      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html"
+    },
     {
       "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
       "source": "The Hacker News",
@@ -8,46 +48,6 @@
       "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out...",
       "date": "2026-10-24",
       "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html"
-    },
-    {
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws...",
-      "date": "2026-10-23",
-      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
-    },
-    {
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the...",
-      "date": "2026-10-23",
-      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html"
-    },
-    {
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect...",
-      "date": "2026-10-23",
-      "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html"
-    },
-    {
-      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside...",
-      "date": "2026-10-23",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/"
-    },
-    {
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned...",
-      "date": "2026-10-23",
-      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html"
     }
   ]
 }
