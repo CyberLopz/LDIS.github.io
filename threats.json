@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-10-23 16:16 UTC",
+  "lastUpdated": "2026-10-24 02:55 UTC",
   "items": [
+    {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out...",
+      "date": "2026-10-24",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html"
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws...",
+      "date": "2026-10-23",
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the...",
+      "date": "2026-10-23",
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html"
+    },
     {
       "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
       "source": "The Hacker News",
@@ -10,44 +34,20 @@
       "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html"
     },
     {
+      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside...",
+      "date": "2026-10-23",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/"
+    },
+    {
       "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
       "source": "The Hacker News",
       "severity": "Critical",
       "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned...",
       "date": "2026-10-23",
       "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html"
-    },
-    {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year....",
-      "date": "2026-10-23",
-      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html"
-    },
-    {
-      "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw,...",
-      "date": "2026-10-23",
-      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html"
-    },
-    {
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of...",
-      "date": "2026-10-23",
-      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
-    },
-    {
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22....",
-      "date": "2026-10-23",
-      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html"
     }
   ]
 }
