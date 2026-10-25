@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-25 02:48 UTC",
+  "lastUpdated": "2026-10-25 15:24 UTC",
   "items": [
+    {
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced...",
+      "date": "2026-10-25",
+      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+    },
     {
       "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator...",
       "date": "2026-10-24",
       "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html"
-    },
-    {
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out...",
-      "date": "2026-10-24",
-      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html"
     }
   ]
 }
