@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-26 02:46 UTC",
+  "lastUpdated": "2026-10-26 18:05 UTC",
   "items": [
     {
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The...",
-      "date": "2026-10-25",
-      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html"
+      "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an...",
+      "date": "2026-10-26",
+      "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html"
     },
     {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as...",
-      "date": "2026-10-25",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
+      "severity": "Critical",
+      "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external...",
+      "date": "2026-10-26",
+      "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html"
     },
     {
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced...",
-      "date": "2026-10-25",
-      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+      "severity": "Critical",
+      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning...",
+      "date": "2026-10-26",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html"
     },
     {
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies...",
-      "date": "2026-10-24",
-      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
+      "severity": "Critical",
+      "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the...",
+      "date": "2026-10-26",
+      "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html"
     },
     {
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious...",
-      "date": "2026-10-24",
-      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
-    },
-    {
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to...",
-      "date": "2026-10-24",
-      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html"
+      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response...",
+      "date": "2026-10-26",
+      "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html"
+    },
+    {
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches...",
+      "date": "2026-10-26",
+      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html"
     }
   ]
 }
