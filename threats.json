@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-25 15:24 UTC",
+  "lastUpdated": "2026-10-26 02:46 UTC",
   "items": [
+    {
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The...",
+      "date": "2026-10-25",
+      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html"
+    },
+    {
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as...",
+      "date": "2026-10-25",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
+    },
     {
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to...",
       "date": "2026-10-24",
       "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html"
-    },
-    {
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said...",
-      "date": "2026-10-24",
-      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html"
-    },
-    {
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator...",
-      "date": "2026-10-24",
-      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html"
     }
   ]
 }
