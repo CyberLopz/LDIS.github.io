@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-26 18:05 UTC",
+  "lastUpdated": "2026-10-27 03:20 UTC",
   "items": [
+    {
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security...",
+      "date": "2026-10-26",
+      "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html"
+    },
     {
       "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response...",
       "date": "2026-10-26",
       "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html"
-    },
-    {
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches...",
-      "date": "2026-10-26",
-      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html"
     }
   ]
 }
