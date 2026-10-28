@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-27 17:15 UTC",
+  "lastUpdated": "2026-10-28 03:36 UTC",
   "items": [
+    {
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving...",
+      "date": "2026-10-27",
+      "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html"
+    },
     {
       "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and...",
       "date": "2026-10-27",
       "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html"
-    },
-    {
-      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the...",
-      "date": "2026-10-27",
-      "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html"
     }
   ]
 }
