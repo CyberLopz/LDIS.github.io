@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-29 03:56 UTC",
+  "lastUpdated": "2026-10-29 17:54 UTC",
   "items": [
     {
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day...",
-      "date": "2026-10-28",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html"
-    },
-    {
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To...",
-      "date": "2026-10-28",
-      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html"
+      "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8...",
+      "date": "2026-10-29",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html"
     },
     {
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as...",
+      "date": "2026-10-29",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html"
+    },
+    {
+      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has...",
-      "date": "2026-10-28",
-      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html"
+      "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across...",
+      "date": "2026-10-29",
+      "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html"
     },
     {
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has...",
-      "date": "2026-10-28",
-      "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html"
+      "severity": "Medium",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers...",
+      "date": "2026-10-29",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html"
     },
     {
-      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability...",
-      "date": "2026-10-28",
-      "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html"
+      "severity": "Medium",
+      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed...",
+      "date": "2026-10-29",
+      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html"
     },
     {
-      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating...",
-      "date": "2026-10-28",
-      "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
+      "severity": "Medium",
+      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and...",
+      "date": "2026-10-29",
+      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html"
     }
   ]
 }
