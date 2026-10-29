@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-28 17:46 UTC",
+  "lastUpdated": "2026-10-29 03:56 UTC",
   "items": [
+    {
+      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day...",
+      "date": "2026-10-28",
+      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html"
+    },
     {
       "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating...",
       "date": "2026-10-28",
       "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
-    },
-    {
-      "title": "Wazuh and AI for Enhanced SOC Workflows",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to...",
-      "date": "2026-10-28",
-      "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html"
     }
   ]
 }
