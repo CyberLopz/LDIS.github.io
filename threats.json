@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-29 17:54 UTC",
+  "lastUpdated": "2026-10-30 03:58 UTC",
   "items": [
+    {
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it...",
+      "date": "2026-10-30",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html"
+    },
     {
       "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
       "source": "The Hacker News",
@@ -37,17 +45,9 @@
       "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed...",
+      "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup...",
       "date": "2026-10-29",
       "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html"
-    },
-    {
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and...",
-      "date": "2026-10-29",
-      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html"
     }
   ]
 }
