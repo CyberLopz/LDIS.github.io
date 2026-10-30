@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-30 03:58 UTC",
+  "lastUpdated": "2026-10-30 17:36 UTC",
   "items": [
     {
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it...",
+      "severity": "Medium",
+      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that...",
       "date": "2026-10-30",
-      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html"
+      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html"
     },
     {
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8...",
-      "date": "2026-10-29",
-      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html"
-    },
-    {
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as...",
-      "date": "2026-10-29",
-      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html"
-    },
-    {
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across...",
-      "date": "2026-10-29",
-      "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html"
+      "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE...",
+      "date": "2026-10-30",
+      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html"
     },
     {
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers...",
-      "date": "2026-10-29",
-      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html"
+      "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor...",
+      "date": "2026-10-30",
+      "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html"
     },
     {
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the...",
+      "date": "2026-10-30",
+      "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html"
+    },
+    {
+      "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+      "source": "Microsoft Security Blog",
+      "severity": "Info",
+      "summary": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk...",
+      "date": "2026-10-30",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/"
+    },
+    {
+      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup...",
-      "date": "2026-10-29",
-      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html"
+      "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that...",
+      "date": "2026-10-30",
+      "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html"
     }
   ]
 }
