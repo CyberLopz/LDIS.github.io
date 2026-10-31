@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-10-31 03:42 UTC",
+  "lastUpdated": "2026-10-31 16:40 UTC",
   "items": [
+    {
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company...",
+      "date": "2026-10-31",
+      "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html"
+    },
+    {
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV)...",
+      "date": "2026-10-31",
+      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html"
+    },
+    {
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the...",
+      "date": "2026-10-31",
+      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html"
+    },
+    {
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company...",
+      "date": "2026-10-31",
+      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html"
+    },
     {
       "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
       "source": "Microsoft Security Blog",
@@ -16,38 +48,6 @@
       "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value...",
       "date": "2026-10-30",
       "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html"
-    },
-    {
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that...",
-      "date": "2026-10-30",
-      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html"
-    },
-    {
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE...",
-      "date": "2026-10-30",
-      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html"
-    },
-    {
-      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor...",
-      "date": "2026-10-30",
-      "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html"
-    },
-    {
-      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the...",
-      "date": "2026-10-30",
-      "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html"
     }
   ]
 }
