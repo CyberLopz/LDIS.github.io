@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-30 17:36 UTC",
+  "lastUpdated": "2026-10-31 03:42 UTC",
   "items": [
+    {
+      "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft analyzes a malicious Claude Code\u2013branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded...",
+      "date": "2026-10-31",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/"
+    },
+    {
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value...",
+      "date": "2026-10-30",
+      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html"
+    },
     {
       "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the...",
       "date": "2026-10-30",
       "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html"
-    },
-    {
-      "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
-      "source": "Microsoft Security Blog",
-      "severity": "Info",
-      "summary": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk...",
-      "date": "2026-10-30",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/"
-    },
-    {
-      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that...",
-      "date": "2026-10-30",
-      "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html"
     }
   ]
 }
