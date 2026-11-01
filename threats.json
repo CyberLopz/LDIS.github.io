@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-11-01 03:51 UTC",
+  "lastUpdated": "2026-11-01 17:30 UTC",
   "items": [
+    {
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS...",
+      "date": "2026-11-01",
+      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html"
+    },
+    {
+      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a...",
+      "date": "2026-11-01",
+      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html"
+    },
+    {
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group...",
+      "date": "2026-11-01",
+      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html"
+    },
+    {
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed...",
+      "date": "2026-11-01",
+      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html"
+    },
     {
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
       "source": "The Hacker News",
@@ -16,38 +48,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV)...",
       "date": "2026-10-31",
       "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html"
-    },
-    {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the...",
-      "date": "2026-10-31",
-      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html"
-    },
-    {
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company...",
-      "date": "2026-10-31",
-      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html"
-    },
-    {
-      "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Microsoft analyzes a malicious Claude Code\u2013branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded...",
-      "date": "2026-10-31",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/"
-    },
-    {
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value...",
-      "date": "2026-10-30",
-      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html"
     }
   ]
 }
