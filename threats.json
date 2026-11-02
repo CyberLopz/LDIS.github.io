@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-02 03:55 UTC",
+  "lastUpdated": "2026-11-02 21:16 UTC",
   "items": [
     {
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "title": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS...",
-      "date": "2026-11-01",
-      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html"
+      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about....",
+      "date": "2026-11-02",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html"
     },
     {
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a...",
-      "date": "2026-11-01",
-      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html"
+      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident...",
+      "date": "2026-11-02",
+      "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html"
     },
     {
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group...",
-      "date": "2026-11-01",
-      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html"
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and...",
+      "date": "2026-11-02",
+      "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html"
     },
     {
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building...",
+      "date": "2026-11-02",
+      "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html"
+    },
+    {
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed...",
-      "date": "2026-11-01",
-      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html"
+      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security...",
+      "date": "2026-11-02",
+      "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html"
     },
     {
-      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company...",
-      "date": "2026-10-31",
-      "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html"
-    },
-    {
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV)...",
-      "date": "2026-10-31",
-      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html"
+      "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS)...",
+      "date": "2026-11-02",
+      "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html"
     }
   ]
 }
