@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-04 04:28 UTC",
+  "lastUpdated": "2026-11-04 19:14 UTC",
   "items": [
     {
-      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor...",
+      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as...",
       "date": "2026-11-04",
-      "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html"
+      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html"
     },
     {
-      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect...",
+      "date": "2026-11-04",
+      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html"
+    },
+    {
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert...",
+      "date": "2026-11-04",
+      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html"
+    },
+    {
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its...",
-      "date": "2026-11-03",
-      "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html"
+      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a...",
+      "date": "2026-11-04",
+      "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html"
     },
     {
-      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage...",
-      "date": "2026-11-03",
-      "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html"
+      "severity": "Critical",
+      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using...",
+      "date": "2026-11-04",
+      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html"
     },
     {
-      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to...",
-      "date": "2026-11-03",
-      "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html"
-    },
-    {
-      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The...",
-      "date": "2026-11-03",
-      "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html"
-    },
-    {
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor...",
-      "date": "2026-11-03",
-      "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html"
+      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default,...",
+      "date": "2026-11-04",
+      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html"
     }
   ]
 }
