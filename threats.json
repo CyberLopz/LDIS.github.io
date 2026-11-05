@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-05 04:43 UTC",
+  "lastUpdated": "2026-11-05 19:20 UTC",
   "items": [
     {
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as...",
-      "date": "2026-11-04",
-      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html"
-    },
-    {
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect...",
-      "date": "2026-11-04",
-      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html"
-    },
-    {
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert...",
-      "date": "2026-11-04",
-      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html"
-    },
-    {
-      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a...",
-      "date": "2026-11-04",
-      "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html"
+      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even...",
+      "date": "2026-11-05",
+      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html"
     },
     {
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using...",
-      "date": "2026-11-04",
-      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html"
+      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress...",
+      "date": "2026-11-05",
+      "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html"
     },
     {
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default,...",
-      "date": "2026-11-04",
-      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html"
+      "severity": "High",
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in...",
+      "date": "2026-11-05",
+      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html"
+    },
+    {
+      "title": "New investments to reduce on-premises security risk",
+      "source": "Microsoft Security Blog",
+      "severity": "Info",
+      "summary": "We\u2019re announcing a new on-premises security initiative, bringing together guidance, migration, and product investments. The post New investments to reduce on-premises security risk...",
+      "date": "2026-11-05",
+      "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381"
+    },
+    {
+      "title": "\u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: November 2026",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft Security\u2019s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management. The post \u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security:...",
+      "date": "2026-11-05",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/"
+    },
+    {
+      "title": "Email threat landscape: Q3 2026 trends and insights",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July \u2013 September), even as QR code phishing declined, CAPTCHA-gated phishing...",
+      "date": "2026-11-05",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/"
     }
   ]
 }
