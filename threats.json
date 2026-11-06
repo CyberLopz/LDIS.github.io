@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-11-05 19:20 UTC",
+  "lastUpdated": "2026-11-06 04:43 UTC",
   "items": [
+    {
+      "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to...",
+      "date": "2026-11-05",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/"
+    },
+    {
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access...",
+      "date": "2026-11-05",
+      "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html"
+    },
+    {
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was...",
+      "date": "2026-11-05",
+      "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html"
+    },
     {
       "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
       "source": "The Hacker News",
@@ -24,30 +48,6 @@
       "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in...",
       "date": "2026-11-05",
       "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html"
-    },
-    {
-      "title": "New investments to reduce on-premises security risk",
-      "source": "Microsoft Security Blog",
-      "severity": "Info",
-      "summary": "We\u2019re announcing a new on-premises security initiative, bringing together guidance, migration, and product investments. The post New investments to reduce on-premises security risk...",
-      "date": "2026-11-05",
-      "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381"
-    },
-    {
-      "title": "\u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: November 2026",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Microsoft Security\u2019s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management. The post \u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security:...",
-      "date": "2026-11-05",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/"
-    },
-    {
-      "title": "Email threat landscape: Q3 2026 trends and insights",
-      "source": "Microsoft Security Blog",
-      "severity": "High",
-      "summary": "Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July \u2013 September), even as QR code phishing declined, CAPTCHA-gated phishing...",
-      "date": "2026-11-05",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/"
     }
   ]
 }
