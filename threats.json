@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-09 04:09 UTC",
+  "lastUpdated": "2026-11-09 21:50 UTC",
   "items": [
     {
-      "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The...",
+      "date": "2026-11-09",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html"
+    },
+    {
+      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm...",
+      "date": "2026-11-09",
+      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html"
+    },
+    {
+      "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Microsoft FORGE Lab researchers found memory-safety bugs in Rust's core and std libraries, including cases where safe Rust code can trigger undefined behavior. Using Hyenas, FORGE's...",
+      "date": "2026-11-09",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/"
+    },
+    {
+      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes,...",
-      "date": "2026-11-07",
-      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
+      "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a...",
+      "date": "2026-11-09",
+      "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html"
     },
     {
-      "title": "ARTEX abuse expands as cybercriminals target financial sector",
-      "source": "Microsoft Security Blog",
-      "severity": "Info",
-      "summary": "In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX. The post ARTEX...",
-      "date": "2026-11-07",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/"
-    },
-    {
-      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update...",
-      "date": "2026-11-06",
-      "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html"
-    },
-    {
-      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "title": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The...",
-      "date": "2026-11-06",
-      "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
+      "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools...",
+      "date": "2026-11-09",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html"
     },
     {
-      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "OpenAI on Thursday unveiled GPT\u20116 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change...",
-      "date": "2026-11-06",
-      "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
-    },
-    {
-      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The...",
-      "date": "2026-11-06",
-      "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html"
+      "severity": "Medium",
+      "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with...",
+      "date": "2026-11-09",
+      "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html"
     }
   ]
 }
