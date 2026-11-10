@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-10 05:39 UTC",
+  "lastUpdated": "2026-11-10 19:11 UTC",
   "items": [
     {
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The...",
-      "date": "2026-11-09",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html"
+      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by...",
+      "date": "2026-11-10",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html"
     },
     {
-      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm...",
-      "date": "2026-11-09",
-      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html"
+      "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a...",
+      "date": "2026-11-10",
+      "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html"
     },
     {
-      "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
-      "source": "Microsoft Security Blog",
+      "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+      "source": "The Hacker News",
       "severity": "High",
-      "summary": "Microsoft FORGE Lab researchers found memory-safety bugs in Rust's core and std libraries, including cases where safe Rust code can trigger undefined behavior. Using Hyenas, FORGE's...",
-      "date": "2026-11-09",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/"
+      "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing...",
+      "date": "2026-11-10",
+      "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html"
     },
     {
-      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of...",
+      "date": "2026-11-10",
+      "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html"
+    },
+    {
+      "title": "Beyond the Alert: The Case for Rich Network Data",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a...",
-      "date": "2026-11-09",
-      "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html"
+      "summary": "At some point your security will fail. This isn\u2019t pessimism. It\u2019s not because your team and tools aren\u2019t sophisticated enough. It\u2019s the reason we have detections in the first place. And,...",
+      "date": "2026-11-10",
+      "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html"
     },
     {
-      "title": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools...",
-      "date": "2026-11-09",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html"
-    },
-    {
-      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with...",
-      "date": "2026-11-09",
-      "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html"
+      "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage...",
+      "date": "2026-11-10",
+      "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html"
     }
   ]
 }
