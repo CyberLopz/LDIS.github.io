@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-11 19:08 UTC",
+  "lastUpdated": "2026-11-12 05:24 UTC",
   "items": [
+    {
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site,...",
+      "date": "2026-11-12",
+      "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html"
+    },
     {
       "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
       "source": "The Hacker News",
@@ -18,6 +26,14 @@
       "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html"
     },
     {
+      "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and...",
+      "date": "2026-11-11",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/"
+    },
+    {
       "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
       "source": "The Hacker News",
       "severity": "High",
@@ -32,22 +48,6 @@
       "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by...",
       "date": "2026-11-11",
       "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html"
-    },
-    {
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That...",
-      "date": "2026-11-11",
-      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html"
-    },
-    {
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their...",
-      "date": "2026-11-11",
-      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html"
     }
   ]
 }
