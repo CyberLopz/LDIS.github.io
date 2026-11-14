@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-14 04:34 UTC",
+  "lastUpdated": "2026-11-14 17:33 UTC",
   "items": [
+    {
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to...",
+      "date": "2026-11-14",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html"
+    },
     {
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said...",
       "date": "2026-11-13",
       "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html"
-    },
-    {
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The...",
-      "date": "2026-11-13",
-      "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html"
     }
   ]
 }
