@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-15 04:23 UTC",
+  "lastUpdated": "2026-11-15 18:22 UTC",
   "items": [
+    {
+      "title": "Italy Fines Meta \u20ac805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Meta was fined \u20ac805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data...",
+      "date": "2026-11-15",
+      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html"
+    },
+    {
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach...",
+      "date": "2026-11-15",
+      "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html"
+    },
     {
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them,...",
       "date": "2026-11-13",
       "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html"
-    },
-    {
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400...",
-      "date": "2026-11-13",
-      "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html"
-    },
-    {
-      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said...",
-      "date": "2026-11-13",
-      "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html"
     }
   ]
 }
