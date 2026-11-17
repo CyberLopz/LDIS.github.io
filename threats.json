@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-17 06:05 UTC",
+  "lastUpdated": "2026-11-17 20:21 UTC",
   "items": [
     {
-      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the...",
-      "date": "2026-11-17",
-      "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html"
-    },
-    {
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram\u2019s New Android Defenses",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks...",
-      "date": "2026-11-16",
-      "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html"
+      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small...",
+      "date": "2026-11-18",
+      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html"
     },
     {
-      "title": "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things...",
-      "date": "2026-11-16",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html"
+      "severity": "Critical",
+      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as...",
+      "date": "2026-11-17",
+      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html"
     },
     {
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this...",
-      "date": "2026-11-16",
-      "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html"
+      "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram...",
+      "date": "2026-11-17",
+      "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html"
     },
     {
-      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based...",
-      "date": "2026-11-16",
-      "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html"
+      "title": "Security for the agentic era, powered by Microsoft Perception",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "Read about updates to Microsoft Perception and the new Microsoft Security cyber stack to defend against threats, secure agents, and protect your digital estate. The post Security for the...",
+      "date": "2026-11-17",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/"
     },
     {
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect...",
-      "date": "2026-11-16",
-      "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html"
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way...",
+      "date": "2026-11-17",
+      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"
+    },
+    {
+      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with...",
+      "date": "2026-11-17",
+      "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html"
     }
   ]
 }
