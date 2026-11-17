@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-16 21:30 UTC",
+  "lastUpdated": "2026-11-17 06:05 UTC",
   "items": [
+    {
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the...",
+      "date": "2026-11-17",
+      "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html"
+    },
     {
       "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect...",
       "date": "2026-11-16",
       "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html"
-    },
-    {
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents'...",
-      "date": "2026-11-16",
-      "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html"
     }
   ]
 }
