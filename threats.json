@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-18 19:51 UTC",
+  "lastUpdated": "2026-11-19 05:32 UTC",
   "items": [
+    {
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for...",
+      "date": "2026-11-19",
+      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html"
+    },
     {
       "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universit\u00e4t Berlin...",
       "date": "2026-11-18",
       "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html"
-    },
-    {
-      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list...",
-      "date": "2026-11-18",
-      "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html"
     }
   ]
 }
