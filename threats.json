@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-19 05:32 UTC",
+  "lastUpdated": "2026-11-19 19:51 UTC",
   "items": [
     {
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
       "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for...",
+      "severity": "Medium",
+      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such...",
       "date": "2026-11-19",
-      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html"
+      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html"
     },
     {
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\"...",
+      "severity": "Critical",
+      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including...",
       "date": "2026-11-19",
-      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html"
     },
     {
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw...",
-      "date": "2026-11-18",
-      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"
+      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory...",
+      "date": "2026-11-19",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html"
     },
     {
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)...",
-      "date": "2026-11-18",
-      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can...",
+      "date": "2026-11-19",
+      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html"
     },
     {
-      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+      "title": "Everything Is a Web Application, Including Your Firewall",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the...",
-      "date": "2026-11-18",
-      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html"
+      "severity": "High",
+      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities,...",
+      "date": "2026-11-19",
+      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
     },
     {
-      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universit\u00e4t Berlin...",
-      "date": "2026-11-18",
-      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html"
+      "severity": "High",
+      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable...",
+      "date": "2026-11-19",
+      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html"
     }
   ]
 }
