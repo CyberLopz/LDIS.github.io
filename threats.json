@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-20 05:20 UTC",
+  "lastUpdated": "2026-11-20 19:30 UTC",
   "items": [
     {
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's...",
-      "date": "2026-11-20",
-      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html"
-    },
-    {
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such...",
-      "date": "2026-11-19",
-      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html"
-    },
-    {
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including...",
-      "date": "2026-11-19",
-      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html"
-    },
-    {
-      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory...",
-      "date": "2026-11-19",
-      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html"
-    },
-    {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can...",
-      "date": "2026-11-19",
-      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html"
-    },
-    {
-      "title": "Everything Is a Web Application, Including Your Firewall",
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities,...",
-      "date": "2026-11-19",
-      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The...",
+      "date": "2026-11-20",
+      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html"
+    },
+    {
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management...",
+      "date": "2026-11-20",
+      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
+    },
+    {
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a...",
+      "date": "2026-11-20",
+      "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html"
+    },
+    {
+      "title": "The Path to AI Autonomy in the SOC",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today...",
+      "date": "2026-11-20",
+      "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html"
+    },
+    {
+      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for SIEM",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "We're honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Security Information and Event Management (SIEM). The post Microsoft...",
+      "date": "2026-11-20",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/"
+    },
+    {
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks...",
+      "date": "2026-11-20",
+      "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html"
     }
   ]
 }
