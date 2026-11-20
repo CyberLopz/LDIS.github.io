@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-19 19:51 UTC",
+  "lastUpdated": "2026-11-20 05:20 UTC",
   "items": [
+    {
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's...",
+      "date": "2026-11-20",
+      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html"
+    },
     {
       "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
       "source": "The Hacker News",
@@ -18,7 +26,7 @@
       "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html"
     },
     {
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
       "source": "The Hacker News",
       "severity": "Critical",
       "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory...",
@@ -40,14 +48,6 @@
       "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities,...",
       "date": "2026-11-19",
       "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
-    },
-    {
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable...",
-      "date": "2026-11-19",
-      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html"
     }
   ]
 }
