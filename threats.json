@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-23 23:13 UTC",
+  "lastUpdated": "2026-11-24 07:57 UTC",
   "items": [
+    {
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without...",
+      "date": "2026-11-24",
+      "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html"
+    },
+    {
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "source": "The Hacker News",
+      "severity": "Critical",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV)...",
+      "date": "2026-11-24",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html"
+    },
     {
       "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
       "source": "The Hacker News",
@@ -32,22 +48,6 @@
       "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS...",
       "date": "2026-11-23",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html"
-    },
-    {
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service...",
-      "date": "2026-11-23",
-      "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html"
-    },
-    {
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical...",
-      "date": "2026-11-23",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html"
     }
   ]
 }
