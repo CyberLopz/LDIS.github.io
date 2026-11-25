@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-25 06:34 UTC",
+  "lastUpdated": "2026-11-25 20:56 UTC",
   "items": [
     {
-      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed,...",
+      "severity": "High",
+      "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243,...",
       "date": "2026-11-25",
-      "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html"
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
     },
     {
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+      "source": "Microsoft Security Blog",
+      "severity": "Info",
+      "summary": "The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate...",
+      "date": "2026-11-25",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/"
+    },
+    {
+      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its...",
+      "date": "2026-11-25",
+      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html"
+    },
+    {
+      "title": "Credential Remediation Is Slow When You Don\u2019t Know What Will Break",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "TL;DR More than 64% still valid after four years: GitGuardian\u2019s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams...",
+      "date": "2026-11-25",
+      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html"
+    },
+    {
+      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Email Security",
+      "source": "Microsoft Security Blog",
+      "severity": "High",
+      "summary": "We're honored to share that Microsoft has been named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Email Security, for the second consecutive year. The post Microsoft named a Leader...",
+      "date": "2026-11-25",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/"
+    },
+    {
+      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central...",
-      "date": "2026-11-24",
-      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html"
-    },
-    {
-      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to...",
-      "date": "2026-11-24",
-      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html"
-    },
-    {
-      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to...",
-      "date": "2026-11-24",
-      "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html"
-    },
-    {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way...",
-      "date": "2026-11-24",
-      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"
-    },
-    {
-      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher...",
-      "date": "2026-11-24",
-      "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html"
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal...",
+      "date": "2026-11-25",
+      "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html"
     }
   ]
 }
