@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-24 21:50 UTC",
+  "lastUpdated": "2026-11-25 06:34 UTC",
   "items": [
+    {
+      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed,...",
+      "date": "2026-11-25",
+      "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html"
+    },
     {
       "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
       "source": "The Hacker News",
@@ -40,14 +48,6 @@
       "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher...",
       "date": "2026-11-24",
       "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html"
-    },
-    {
-      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per...",
-      "date": "2026-11-24",
-      "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html"
     }
   ]
 }
