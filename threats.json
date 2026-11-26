@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-11-26 06:26 UTC",
+  "lastUpdated": "2026-11-26 20:49 UTC",
   "items": [
+    {
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where...",
+      "date": "2026-11-27",
+      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html"
+    },
+    {
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "source": "The Hacker News",
+      "severity": "Medium",
+      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as...",
+      "date": "2026-11-26",
+      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html"
+    },
+    {
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the...",
+      "date": "2026-11-26",
+      "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html"
+    },
     {
       "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
       "source": "The Hacker News",
@@ -10,44 +34,20 @@
       "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html"
     },
     {
-      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
       "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the...",
+      "severity": "Critical",
+      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score:...",
       "date": "2026-11-26",
-      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html"
+      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"
     },
     {
-      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
       "source": "The Hacker News",
       "severity": "High",
-      "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243,...",
-      "date": "2026-11-25",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
-    },
-    {
-      "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
-      "source": "Microsoft Security Blog",
-      "severity": "Info",
-      "summary": "The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate...",
-      "date": "2026-11-25",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/"
-    },
-    {
-      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-      "source": "The Hacker News",
-      "severity": "Medium",
-      "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its...",
-      "date": "2026-11-25",
-      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html"
-    },
-    {
-      "title": "Credential Remediation Is Slow When You Don\u2019t Know What Will Break",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "TL;DR More than 64% still valid after four years: GitGuardian\u2019s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams...",
-      "date": "2026-11-25",
-      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html"
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities...",
+      "date": "2026-11-26",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html"
     }
   ]
 }
