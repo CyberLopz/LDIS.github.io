@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-27 06:16 UTC",
+  "lastUpdated": "2026-11-27 20:34 UTC",
   "items": [
     {
-      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where...",
+      "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South...",
       "date": "2026-11-27",
-      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html"
+      "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html"
     },
     {
-      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "source": "The Hacker News",
+      "severity": "High",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci...",
+      "date": "2026-11-27",
+      "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html"
+    },
+    {
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
       "source": "The Hacker News",
       "severity": "Medium",
-      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as...",
-      "date": "2026-11-26",
-      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html"
+      "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks...",
+      "date": "2026-11-27",
+      "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html"
     },
     {
-      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the...",
-      "date": "2026-11-26",
-      "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html"
+      "severity": "Medium",
+      "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK...",
+      "date": "2026-11-27",
+      "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html"
     },
     {
-      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-      "source": "The Hacker News",
-      "severity": "High",
-      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information,...",
-      "date": "2026-11-26",
-      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html"
-    },
-    {
-      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
       "source": "The Hacker News",
       "severity": "Critical",
-      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score:...",
-      "date": "2026-11-26",
-      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"
+      "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity...",
+      "date": "2026-11-27",
+      "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"
     },
     {
-      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
       "source": "The Hacker News",
-      "severity": "High",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities...",
-      "date": "2026-11-26",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html"
+      "severity": "Critical",
+      "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept...",
+      "date": "2026-11-27",
+      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html"
     }
   ]
 }
