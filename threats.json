@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27 20:34 UTC",
+  "lastUpdated": "2026-11-28 05:55 UTC",
   "items": [
     {
       "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
@@ -34,20 +34,20 @@
       "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html"
     },
     {
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "source": "CISA Advisories",
+      "severity": "High",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-120705 OSGeo GeoServer XML Injection...",
+      "date": "2026-11-27",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+    },
+    {
       "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
       "source": "The Hacker News",
       "severity": "Critical",
       "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity...",
       "date": "2026-11-27",
       "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"
-    },
-    {
-      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
-      "source": "The Hacker News",
-      "severity": "Critical",
-      "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept...",
-      "date": "2026-11-27",
-      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html"
     }
   ]
 }
